@@ -12,7 +12,7 @@ $$
 \frac{d}{dx}(ab) = \frac{da}{dx}b + a\frac{db}{dx}.
 $$
 
-Now, if I have a integrand of the form $\frac{da}{dx}{dx}$,
+Now, if I have an integrand of the form $\frac{da}{dx}{dx}$,
 
 $$
 I=\int_{x_0}^{x_1}\frac{da}{dx}bdx,
@@ -30,16 +30,23 @@ $$
 The first term is a total differential, so it integrates immediately:
 
 $$
-I = \left.(ab)\right|_{x_0}^{x_1} - \oint_{x_0}^{x_1}a\frac{db}{dx}dx.
+I = \left.(ab)\right|_{x_0}^{x_1} - \int_{x_0}^{x_1}a\frac{db}{dx}dx.
 $$
 
-To make the extension to vector equations, we'll focus on functions that can be written $a\nabla b$ and prove Green's First Theorem, by way of the divergence theorem. Remember, the divergence theorem is a statement of the integral of a complete divergence over a volume is controlled by it's behavior on the surface of the volume:
+To make the extension to vector equations, we'll focus on functions that can be written $a\nabla b$ and prove Green's First Theorem, by way of the divergence theorem. The goal is to determine the form of integration by parts for an integral of the form
 
 $$
-\int_V \nabla\cdot(a\nabla b)d^3x = \int_s (a\nabla b)\cdot \mathbf{n}d^2x.
+\int_V \nabla a \nabla b d^3x.
 $$
 
-Using this, determine 
+Note that because a divergence is not a total differential, it cannot be integrated out the way we did above. Instead, we recall that the divergence theorem is a statement of the integral of a complete divergence over a volume is controlled by it's behavior on the surface of the volume:
+
+$$
+\int_V \nabla\cdot(a\nabla b)d^3x = \oint_s (a\nabla b)\cdot \mathbf{n}d^2x
+$$
+
+ (sort of like the boundar term $\left.(ab)\right|_{x_0}^{x_1}$ from before).
+
 
 ## Electric potential
 The electric field $\mathbf{E}(\mathbf{x})$ can be written as the gradient of a potential $\mathbf{E}=\nabla\psi(\mathbf{x})$, and it's energy can be written as a functional of the potential:
@@ -50,6 +57,6 @@ $$
 
 The first term on the right hand side is the familiar definition of the electric field energy, and the second term is the interaction term between the field and any electric charge densities $\rho$  in the volume $V$ of interest. Note that $\rho$ is the charge densities in approripate units $\rho=\rho_0/\epsilon_0$. Let's investigate what potential $\psi$ minimizes this energy.
 
-The problem proceeds using variational calculus of the energy with respect to potential fields. That is, start by assuming $\psi^*$ minimizes the energy, and perturb it slightly $\psi = \psi^\star + \delta\psi$. Expand the energy to first order terms in $\delta\psi$ and proceed to the condition of minimization on the field $\psi^\star$.
+The problem proceeds using variational calculus of the energy with respect to potential fields. That is, start by assuming $\psi^\star$ minimizes the energy, and perturb it slightly $\psi = \psi^\star + \delta\psi$. Expand the energy to first order terms in $\delta\psi$ and proceed to the condition of minimization on the field $\psi^\star$.
 
 Does it seem familiar?
