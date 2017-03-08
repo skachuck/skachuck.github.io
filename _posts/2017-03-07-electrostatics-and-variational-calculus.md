@@ -50,6 +50,6 @@ $$
 
 The first term on the right hand side is the familiar definition of the electric field energy, and the second term is the interaction term between the field and any electric charge densities $\rho$  in the volume $V$ of interest. Note that $\rho$ is the charge densities in approripate units $\rho=\rho_0/\epsilon_0$. Let's investigate what potential $\psi$ minimizes this energy.
 
-The problem proceeds using variational calculus of the energy with respect to potential fields. That is, start by assuming $\psi^*$ minimizes the energy, and perturb it slightly $\psi = \psi^* + \delta\psi$. Expand the energy to first order terms in $\delta\psi$ and proceed to the condition of minimization on the field $\psi^*$.
+The problem proceeds using variational calculus of the energy with respect to potential fields. That is, start by assuming $\psi^*$ minimizes the energy, and perturb it slightly $\psi = \psi^\star + \delta\psi$. Expand the energy to first order terms in $\delta\psi$ and proceed to the condition of minimization on the field $\psi^\star$.
 
 Does it seem familiar?
