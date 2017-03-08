@@ -45,7 +45,7 @@ $$
 \int_V \nabla\cdot(a\nabla b)d^3x = \oint_s (a\nabla b)\cdot \mathbf{n}d^2x
 $$
 
- (sort of like the boundar term $\left.(ab)\right|_{x_0}^{x_1}$ from before).
+sort of like the boundary term $\left.(ab)\right|_{x_0}^{x_1}$ from before.
 
 
 ## Electric potential
