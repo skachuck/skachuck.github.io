@@ -15,7 +15,7 @@ $$
 \frac{\vec{F}_\text{cent}}{m} = -\vec{\omega}\times(\vec{\omega}\times\vec{r}),
 $$
 
-derive an expression for the centrifual potential $\chi$ such that
+derive an expression for the centrifugal potential $\chi$ such that
 
 $$
 -\vec{\nabla}\chi = \frac{\vec{F}_\text{cent}}{m},
@@ -69,4 +69,4 @@ $$
 ## 3. 
 And using values appropriate for the Earth, $\epsilon = 1/233$. Indeed this number is adequately less than 1 to have ignored the higher order terms.
 
-Jumping back to the present to use the most recent geodetic data (e.g., the GRACE satellite, which measures the Earth's gravity), we can pull out the order-2 bulge and find $\epsilon = 1/298.26$. What are some resons for our overestimated bulging?
+Jumping back to the present to use the most recent geodetic data (e.g., the GRACE satellite, which measures the Earth's gravity), we can pull out the order-2 bulge and find $\epsilon = 1/298.26$. What are some reasons for our overestimated bulging?
