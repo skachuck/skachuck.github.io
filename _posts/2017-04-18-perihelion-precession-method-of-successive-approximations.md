@@ -7,7 +7,7 @@ categories: jekyll update
 
 # Perihelion Precession and the Method of Successive Approximations
 
-We would like to compute the magnitude of the precession of the perihelion. In Homework 10, problem one, you'll do it one way, so here we'll do it using the _method of successive approximations_. First, let's remind ourselves of the problem. We have the effective potential for motion in gravity, and we add a term proportional to $1/r^3$
+We would like to compute the magnitude of the precession of the perihelion. In Homework 11, problem one, you'll do it one way, so here we'll do it using the _method of successive approximations_. First, let's remind ourselves of the problem. We have the effective potential for motion in gravity, and we add a term proportional to $1/r^3$
 
 $$
 U(r) = \frac{B}{r^2} - \frac{A}{r} - \frac{C}{r^3},
@@ -147,4 +147,4 @@ $$
 \Delta\theta_0 = 6\pi\frac{GM_1}{c^2r_0(1-\epsilon^2)}.
 $$
 
-Check this against your solution in problem 1 of homework 10!
+Check this against your solution in problem 1 of homework 11!
