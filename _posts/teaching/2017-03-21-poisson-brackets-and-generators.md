@@ -1,5 +1,8 @@
 ---
 layout: mathpost
+type: teaching
+categories: classmech 3318 math
+course: 'PHYS3318: Classical Mechanics' 
 ---
 
 With the Hamiltonian interpretation of dynamics as flow and transformations in phase space, we're beginning to see the geometric underpinnings of physics. Let's probe this connection a bit and explore a topic from the homework assignment, the _Poisson Bracket_. The Poisson Bracket in phase space has the following defintion:

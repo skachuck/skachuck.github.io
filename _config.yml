@@ -16,12 +16,12 @@
 title: georei - Samuel B. Kachuck
 email: skachuck@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Samuel Kachuck is a Ph.D. candidate at Cornell University in geophysics. 
-  He enjoys thinking about the earth's interior, reading history, teaching physics,
+  Sam is a Ph.D. candidate at Cornell University in geophysics. 
+  He enjoys thinking about the earth's interior, reading history, teaching physics, reading to his daughter,
   and baking bread.
 #'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://georei.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  skachuck
 

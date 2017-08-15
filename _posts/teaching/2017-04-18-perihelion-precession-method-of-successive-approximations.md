@@ -2,7 +2,9 @@
 layout: mathpost
 title:  "Perihelion Precession and the Method of Successive Approximations"
 date:   2017-04-18 11:42:44 -0500
-categories: jekyll update
+type: teaching
+categories: 3318 classmech math computation
+course: 'PHYS3318: Classical Mechanics'
 ---
 
 # Perihelion Precession and the Method of Successive Approximations
@@ -27,9 +29,9 @@ $$
 C=\frac{2AB}{M_2 c^2}.
 $$
 
-In fact a perturbation of exactly this sort is [expected from general relativity](https://en.wikipedia.org/wiki/Two-body_problem_in_general_relativity#Effective_radial_potential_energy) and provided one of the earliest confirmations of the theory, by [measuring the precession of the perihelion of Mercury](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.19.361).
+A perturbation of exactly this sort is [expected from general relativity](https://en.wikipedia.org/wiki/Two-body_problem_in_general_relativity#Effective_radial_potential_energy) and provided one of the earliest confirmations of the theory, by [measuring the precession of the perihelion of Mercury](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.19.361).
 
-To solve this a different way from class, we'll consider the equation of motion for the new parameter $u=1/r$. Using this change, we can update equation of motion (from lecture 31)
+To solve this a different way from class, we'll consider the equation of motion for the new parameter $u=1/r$. Using this change, we can update equation of motion (from [lecture 31](http://uuuuuu.lassp.cornell.edu/sites/default/files/lec31.pdf))
 
 $$\tag{31.13}
 \frac{d^2u}{d\theta^2} + u = \frac{A}{2B}
@@ -147,4 +149,4 @@ $$
 \Delta\theta_0 = 6\pi\frac{GM_1}{c^2r_0(1-\epsilon^2)}.
 $$
 
-Check this against your solution in problem 1 of homework 11!
+Check this against your solution in problem 1 of [homework 11](http://uuuuuu.lassp.cornell.edu/sites/default/files/H11.pdf)!

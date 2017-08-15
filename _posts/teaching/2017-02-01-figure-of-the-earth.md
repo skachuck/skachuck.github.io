@@ -2,7 +2,9 @@
 layout: mathpost
 title:  "Figure of the Earth"
 date:   2017-02-01 11:42:44 -0500
-categories: jekyll update
+type: teaching
+categories: 3318 classmech history
+course: 'PHYS3318: Classical Mechanics'
 ---
 The year is 1735 and two expeditions have just left France to determine the shape of the Earth, one to Peru and the other to Lapland. Two theories lead to contradictory results. The French Cartesians compute, using DeCartes' theory of space-filling vortices, that the Earth should be _prolate_. The British, following Newton determine the Earth should be _oblate_. An earlier measurement to the north and south of Paris had confirmed the Cartesian result (side question: what was the measurement they were taking?), but still the French Academy is being infiltrated by Newtonians, and King Louis XIV was willing to fund a larger expedition to demonstrate the dominance of French scientists. We want to generate a theoretical prediction for the Earth's departure from a sphere so that we have something to compare with the expeditions' results.
 

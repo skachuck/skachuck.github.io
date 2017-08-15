@@ -1,5 +1,8 @@
 ---
 layout: mathpost
+type: teaching
+categories: 3318 classmech review
+course: 'PHYS3318: Classical Mechanics'
 ---
 
 # When Nonholonomic Constraints are not-so

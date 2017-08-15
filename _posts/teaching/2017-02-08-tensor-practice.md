@@ -2,7 +2,9 @@
 layout: mathpost
 title:  "Tensor Practice"
 date:   2017-02-07
-categories: review math
+type: teaching
+categories: math classmech 3318
+course: 'PHYS3318: Classical Mechanics'
 ---
 
 1. Tensor Review: Tensors are real!

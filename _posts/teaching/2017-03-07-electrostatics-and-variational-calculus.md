@@ -1,5 +1,8 @@
 ---
 layout: mathpost
+type: teaching
+categories: 3318 classmech math
+course: 'PHYS3318: Classical Mechanics'
 ---
 
 # Variational Calculus and Electrostatics
@@ -33,10 +36,10 @@ $$
 I = \left.(ab)\right|_{x_0}^{x_1} - \int_{x_0}^{x_1}a\frac{db}{dx}dx.
 $$
 
-To make the extension to vector equations, we'll focus on functions that can be written $a\nabla b$ and prove Green's First Theorem, by way of the divergence theorem. The goal is to determine the form of integration by parts for an integral of the form
+To make the extension to vector equations, we'll focus on functions that can be written $a\nabla b$ and prove Green's First Theorem, by way of the *divergence theorem* (there's another name for this theorem that I hope you'll remember by the end of the exercise). The goal is to determine the form of integration by parts for an integral of the form
 
 $$
-\int_V \nabla a \nabla b d^3x.
+\int_V \nabla a\cdot \nabla b d^3x.
 $$
 
 Note that because a divergence is not a total differential, it cannot be integrated out the way we did above. Instead, we recall that the divergence theorem is a statement of the integral of a complete divergence over a volume is controlled by it's behavior on the surface of the volume:
