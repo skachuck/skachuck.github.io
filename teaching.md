@@ -6,7 +6,7 @@ permalink: /teaching/
 
 <div class="home">
 
-  This is the page where I put teaching stuff.
+<hr>
 
   <h1 class="page-heading">Posts</h1>
   
