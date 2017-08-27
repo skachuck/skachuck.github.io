@@ -16,9 +16,8 @@
 title: georei - Samuel B. Kachuck
 email: skachuck@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Sam is a Ph.D. candidate at Cornell University in geophysics. 
-  He enjoys thinking about the earth's interior, reading history, teaching physics, reading to his daughter,
-  and baking bread.
+  georei is a pseudo-greek portmaneteau meaning 'Earth flows,' 
+  adapted from Heraclitus' aphorism that 'panta rei,' everything flows.
 #'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://georei.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -31,6 +30,9 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - jekyll-seo-tag
+plugins:
+  - jekyll-seo-tag
 exclude:
   - Gemfile
   - Gemfile.lock
