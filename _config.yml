@@ -16,8 +16,8 @@
 title: georei - Samuel B. Kachuck
 email: skachuck@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  georei is a pseudo-greek portmaneteau meaning 'Earth flows,' 
-  adapted from Heraclitus' aphorism that 'panta rei,' everything flows.
+  georei is a pseudo-greek portmanteau meaning <emph>Earth flows</emph>, 
+  adapted from Heraclitus' aphorism that <emph>panta rei</emph>, everything flows.
 #'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://georei.com" # the base hostname & protocol for your site, e.g. http://example.com
