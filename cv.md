@@ -4,10 +4,7 @@ title: CV
 permalink: /cv/
 ---
 ## <i class="fa fa-chevron-right"></i> 
-I am in the final year of a Ph.D. in Geophysics at Cornell University. My interests  include fluid dynamics and statistical physics in general. My thesis research focuses  on computing how the earth responds to the mass redistributions of the last ice age,  when over 4 million Gigatons of water (about 3% of the oceans) moved from the ocean  to the continents, and predicting the effects this is having on sea level changes today using sparse surface observations.
-
-
-I believe that communicating and teaching science honestly is vitally important for its  continued success, perhaps now more than ever. I am thus dedicated to studying and  implementing modern pedagogical methods in my classrooms, presentations, and with my  peers in a way that emphasizes the social, historical, and human aspects of science.
+I am in the final year of a Ph.D. in geophysics at Cornell University. My interests  include fluid dynamics and statistical physics in general, and glacial isostatic adjustment - how the earth responds viscoelastically to the mass redistributions of the last ice age, when over 4 million Gigatons of water moved from the oceans to the continents - in particular. My thesis research comprises the development and benchmarking of a tool for computing this response efficiently. It is the beginning of a comprehensive characterization of the errors in models of glacial isostasy and how these errors propagate to predictions of social importance, like land-water storage and sea-level changes.
 
 
 ## <i class="fa fa-chevron-right"></i> Education
@@ -90,12 +87,26 @@ I believe that communicating and teaching science honestly is vitally important 
 <table class="table table-hover">
 
 <tr>
+<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/Kachuck-inprep.png" style="width:100px"/></td>
+<td>
+    <strong>Nondimensionalized relaxation method for efficient computation of time-domain viscoelastic love numbers</strong><br>
+    S. **Kachuck<br>
+    in prep in prep<br>
+    [1] 
+[<a href='javascript: none'
+    onclick='$("#abs_Kachuck-inprep").toggle()'>abs</a>]<br>
+    
+</td>
+</tr>
+
+
+<tr>
 <td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/Kachuck-inpress.png" style="width:100px"/></td>
 <td>
     <strong>Constraining the Geometry and Volume of the Barents Sea Ice Sheet</strong><br>
-    <strong>S. Kachuck</strong> and L. Cathles<br>
+    S. **Kachuck and L. Cathles<br>
     JQS in review<br>
-    [1] 
+    [2] 
 [<a href='javascript: none'
     onclick='$("#abs_Kachuck-inpress").toggle()'>abs</a>]<br>
     
@@ -111,9 +122,9 @@ The ice load configuration of the Barents Sea Ice Sheet (BSIS) over the last gla
 <td class="col-md-3" style="width:25%" valign="top"><a href='http://link.aps.org/doi/10.1103/PhysRevE.88.062202' target='_blank'><img src="/images/publications/Kachuck2013.png" style="width:100px"/></a> </td>
 <td>
     <strong>Simulations of granular gravitational collapse</strong><br>
-    <strong>S. Kachuck</strong> and G. Voth<br>
+    S. **Kachuck and G. Voth<br>
     PRE 2013<br>
-    [2] 
+    [3] 
 [<a href='javascript: none'
     onclick='$("#abs_Kachuck2013").toggle()'>abs</a>] [<a href='http://link.aps.org/doi/10.1103/PhysRevE.88.062202' target='_blank'>pdf</a>] <br>
     
@@ -129,9 +140,9 @@ A freely cooling granular gas in a gravitational field undergoes a collapse to a
 <td class="col-md-3" style="width:25%" valign="top"><a href='http://link.aps.org/doi/10.1103/PhysRevE.78.041309' target='_blank'><img src="/images/publications/Perez2008.png" style="width:100px"/></a> </td>
 <td>
     <strong>Visualization of collisional substructure in granular shock waves</strong><br>
-    J. Perez, <strong>S. Kachuck</strong>, and G. Voth<br>
+    J. Perez, S. **Kachuck, and G. Voth<br>
     PRE 2008<br>
-    [3] 
+    [4] 
 [<a href='javascript: none'
     onclick='$("#abs_Perez2008").toggle()'>abs</a>] [<a href='http://link.aps.org/doi/10.1103/PhysRevE.78.041309' target='_blank'>pdf</a>] <br>
     
@@ -186,7 +197,7 @@ We study shock wave formation and propagation in an experimental vertically driv
 ## <i class="fa fa-chevron-right"></i> Skills
 <table class="table table-hover">
 <tr>
-  <td class='col-md-2'>Languages</td>
+  <td class='col-md-2'>Languages:</td>
   <td markdown="1">
 Python, C/C++, FORTRAN, APL, LaTeX, Matlab
   </td>
@@ -207,6 +218,13 @@ Python, C/C++, FORTRAN, APL, LaTeX, Matlab
   <td class='col-md-2'>2016</td>
   <td>
     AGU Outstanding Student Paper Award
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2012</td>
+  <td>
+    NSF GRFP Honorable Mention
     <!--  -->
   </td>
 </tr>
@@ -280,10 +298,23 @@ Python, C/C++, FORTRAN, APL, LaTeX, Matlab
 
 <tr>
 <td>
-    <strong>Constraining the Geometry and Volume of the Barents Sea Ice Sheet</strong><br>
-    <strong>S. Kachuck</strong> and L. Cathles<br>
-    JQS in review<br>
+    <strong>Nondimensionalized relaxation method for efficient computation of time-domain viscoelastic love numbers</strong><br>
+    S. **Kachuck<br>
+    in prep in prep<br>
     [J1] 
+[<a href='javascript: none'
+    onclick='$("#abs_Kachuck-inprepJ").toggle()'>abs</a>]<br>
+    
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>Constraining the Geometry and Volume of the Barents Sea Ice Sheet</strong><br>
+    S. **Kachuck and L. Cathles<br>
+    JQS in review<br>
+    [J2] 
 [<a href='javascript: none'
     onclick='$("#abs_Kachuck-inpressJ").toggle()'>abs</a>]<br>
     
@@ -298,9 +329,9 @@ The ice load configuration of the Barents Sea Ice Sheet (BSIS) over the last gla
 <tr>
 <td>
     <strong>Simulations of granular gravitational collapse</strong><br>
-    <strong>S. Kachuck</strong> and G. Voth<br>
+    S. **Kachuck and G. Voth<br>
     PRE 2013<br>
-    [J2] 
+    [J3] 
 [<a href='javascript: none'
     onclick='$("#abs_Kachuck2013J").toggle()'>abs</a>] [<a href='http://link.aps.org/doi/10.1103/PhysRevE.88.062202' target='_blank'>pdf</a>] <br>
     
@@ -315,9 +346,9 @@ A freely cooling granular gas in a gravitational field undergoes a collapse to a
 <tr>
 <td>
     <strong>Visualization of collisional substructure in granular shock waves</strong><br>
-    J. Perez, <strong>S. Kachuck</strong>, and G. Voth<br>
+    J. Perez, S. **Kachuck, and G. Voth<br>
     PRE 2008<br>
-    [J3] 
+    [J4] 
 [<a href='javascript: none'
     onclick='$("#abs_Perez2008J").toggle()'>abs</a>] [<a href='http://link.aps.org/doi/10.1103/PhysRevE.78.041309' target='_blank'>pdf</a>] <br>
     
