@@ -4,14 +4,14 @@ title: CV
 permalink: /cv/
 ---
 ## <i class="fa fa-chevron-right"></i> 
-I am in the final year of a Ph.D. in geophysics at Cornell University. My interests  include fluid dynamics and statistical physics in general, and glacial isostatic adjustment - how the earth responds viscoelastically to the mass redistributions of the last ice age, when over 4 million Gigatons of water moved from the oceans to the continents - in particular. My thesis research comprises the development and benchmarking of a tool for computing this response efficiently. It is the beginning of a comprehensive characterization of the errors in models of glacial isostasy and how these errors propagate to predictions of social importance, like land-water storage and sea-level changes.
+I am in the final year of a Ph.D. in geophysics at Cornell University. My interests  include fluid dynamics and statistical physics in general, and glacial isostatic adjustment - how the earth responds viscoelastically to the mass redistributions of the last ice age, when over 4 million Gigatons of water moved from the oceans to the continents - in particular. My thesis research comprises the development and benchmarking of a tool for computing this response efficiently. It is the beginning of a comprehensive characterization of the errors in models of glacial isostasy and how these errors propagate to predictions of social importance, like land-water storage and sea-level changes. \newline
 
 
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-3">Sep 2011 - Jun 2018 (expected)</td>
+    <td class="col-md-3">Sep 2011 - May 2018 (expected)</td>
     <td>
         <strong>Ph.D. in Geophysics</strong>
         <br>
@@ -87,14 +87,48 @@ I am in the final year of a Ph.D. in geophysics at Cornell University. My intere
 <table class="table table-hover">
 
 <tr>
+<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/sloppy-inprep.png" style="width:100px"/></td>
+<td>
+    <strong>Geometric perspective on fitting glacial isostatic adjustment</strong><br>
+    S. **Kachuck<br>
+    in prep in prep<br>
+    [1]<br>
+    
+</td>
+</tr>
+
+
+<tr>
+<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/sle-inprep.png" style="width:100px"/></td>
+<td>
+    <strong>Benchmarking the Sea Level Equation</strong><br>
+    R. Riva, G. Spada, .. .., S. **Kachuck, and .. ..<br>
+    in prep in prep<br>
+    [2]<br>
+    
+</td>
+</tr>
+
+
+<tr>
+<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/Durkin-inprep.png" style="width:100px"/></td>
+<td>
+    <strong>Sensitivity of Southeast Alaskan elastic uplift rates to uncertainty in Earth structure and decadal ice thinning rates</strong><br>
+    W. Durkin, S. **Kachuck, and M. Pritchard<br>
+    in prep in prep<br>
+    [3]<br>
+    
+</td>
+</tr>
+
+
+<tr>
 <td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/Kachuck-inprep.png" style="width:100px"/></td>
 <td>
     <strong>Nondimensionalized relaxation method for efficient computation of time-domain viscoelastic love numbers</strong><br>
     S. **Kachuck<br>
     in prep in prep<br>
-    [1] 
-[<a href='javascript: none'
-    onclick='$("#abs_Kachuck-inprep").toggle()'>abs</a>]<br>
+    [4]<br>
     
 </td>
 </tr>
@@ -106,7 +140,7 @@ I am in the final year of a Ph.D. in geophysics at Cornell University. My intere
     <strong>Constraining the Geometry and Volume of the Barents Sea Ice Sheet</strong><br>
     S. **Kachuck and L. Cathles<br>
     JQS in review<br>
-    [2] 
+    [5] 
 [<a href='javascript: none'
     onclick='$("#abs_Kachuck-inpress").toggle()'>abs</a>]<br>
     
@@ -124,7 +158,7 @@ The ice load configuration of the Barents Sea Ice Sheet (BSIS) over the last gla
     <strong>Simulations of granular gravitational collapse</strong><br>
     S. **Kachuck and G. Voth<br>
     PRE 2013<br>
-    [3] 
+    [6] 
 [<a href='javascript: none'
     onclick='$("#abs_Kachuck2013").toggle()'>abs</a>] [<a href='http://link.aps.org/doi/10.1103/PhysRevE.88.062202' target='_blank'>pdf</a>] <br>
     
@@ -142,7 +176,7 @@ A freely cooling granular gas in a gravitational field undergoes a collapse to a
     <strong>Visualization of collisional substructure in granular shock waves</strong><br>
     J. Perez, S. **Kachuck, and G. Voth<br>
     PRE 2008<br>
-    [4] 
+    [7] 
 [<a href='javascript: none'
     onclick='$("#abs_Perez2008").toggle()'>abs</a>] [<a href='http://link.aps.org/doi/10.1103/PhysRevE.78.041309' target='_blank'>pdf</a>] <br>
     
@@ -298,12 +332,43 @@ Python, C/C++, FORTRAN, APL, LaTeX, Matlab
 
 <tr>
 <td>
-    <strong>Nondimensionalized relaxation method for efficient computation of time-domain viscoelastic love numbers</strong><br>
-    S. **Kachuck<br>
+    <strong>Geometric perspective on fitting glacial isostatic adjustment</strong><br>
+    <strong>S. **Kachuck</strong><br>
     in prep in prep<br>
-    [J1] 
-[<a href='javascript: none'
-    onclick='$("#abs_Kachuck-inprepJ").toggle()'>abs</a>]<br>
+    [J1]<br>
+    
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>Benchmarking the Sea Level Equation</strong><br>
+    R. Riva, G. Spada, .. .., <strong>S. **Kachuck</strong>, and .. ..<br>
+    in prep in prep<br>
+    [J2]<br>
+    
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>Sensitivity of Southeast Alaskan elastic uplift rates to uncertainty in Earth structure and decadal ice thinning rates</strong><br>
+    W. Durkin, <strong>S. **Kachuck</strong>, and M. Pritchard<br>
+    in prep in prep<br>
+    [J3]<br>
+    
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>Nondimensionalized relaxation method for efficient computation of time-domain viscoelastic love numbers</strong><br>
+    <strong>S. **Kachuck</strong><br>
+    in prep in prep<br>
+    [J4]<br>
     
 </td>
 </tr>
@@ -312,9 +377,9 @@ Python, C/C++, FORTRAN, APL, LaTeX, Matlab
 <tr>
 <td>
     <strong>Constraining the Geometry and Volume of the Barents Sea Ice Sheet</strong><br>
-    S. **Kachuck and L. Cathles<br>
+    <strong>S. **Kachuck</strong> and L. Cathles<br>
     JQS in review<br>
-    [J2] 
+    [J5] 
 [<a href='javascript: none'
     onclick='$("#abs_Kachuck-inpressJ").toggle()'>abs</a>]<br>
     
@@ -329,9 +394,9 @@ The ice load configuration of the Barents Sea Ice Sheet (BSIS) over the last gla
 <tr>
 <td>
     <strong>Simulations of granular gravitational collapse</strong><br>
-    S. **Kachuck and G. Voth<br>
+    <strong>S. **Kachuck</strong> and G. Voth<br>
     PRE 2013<br>
-    [J3] 
+    [J6] 
 [<a href='javascript: none'
     onclick='$("#abs_Kachuck2013J").toggle()'>abs</a>] [<a href='http://link.aps.org/doi/10.1103/PhysRevE.88.062202' target='_blank'>pdf</a>] <br>
     
@@ -346,9 +411,9 @@ A freely cooling granular gas in a gravitational field undergoes a collapse to a
 <tr>
 <td>
     <strong>Visualization of collisional substructure in granular shock waves</strong><br>
-    J. Perez, S. **Kachuck, and G. Voth<br>
+    J. Perez, <strong>S. **Kachuck</strong>, and G. Voth<br>
     PRE 2008<br>
-    [J4] 
+    [J7] 
 [<a href='javascript: none'
     onclick='$("#abs_Perez2008J").toggle()'>abs</a>] [<a href='http://link.aps.org/doi/10.1103/PhysRevE.78.041309' target='_blank'>pdf</a>] <br>
     
@@ -368,7 +433,7 @@ We study shock wave formation and propagation in an experimental vertically driv
 <tr>
 <td>
     <strong>Nondimensionalized relaxation method for efficient computation of elastic Love numbers</strong><br>
-    <strong>S. Kachuck</strong> and L. Cathles<br>
+    <strong>S. **Kachuck</strong> and L. Cathles<br>
     Workshop on Glacial Isostatic Adjustment and Elastic Deformation 2017<br>
     [O1] [<a href='' target='_blank'>pdf</a>] <br>
     
@@ -379,7 +444,7 @@ We study shock wave formation and propagation in an experimental vertically driv
 <tr>
 <td>
     <strong>Emergence constraints on Late Weichselian Barents Sea ice sheet history</strong><br>
-    <strong>S. Kachuck</strong>, L. Cathles, A. Amantov, A. Hormes, and W. Fjeldskaar<br>
+    <strong>S. **Kachuck</strong>, L. Cathles, A. Amantov, A. Hormes, and W. Fjeldskaar<br>
     EGU 2014<br>
     [O2] [<a href='' target='_blank'>pdf</a>] <br>
     
@@ -390,7 +455,7 @@ We study shock wave formation and propagation in an experimental vertically driv
 <tr>
 <td>
     <strong>Velocity dependent energy loss in granular gravitational collapse</strong><br>
-    <strong>S. Kachuck</strong><br>
+    <strong>S. **Kachuck</strong><br>
     New York Condesnsed Matter Workshop 2011<br>
     [O3] [<a href='' target='_blank'>pdf</a>] <br>
     
@@ -405,9 +470,9 @@ We study shock wave formation and propagation in an experimental vertically driv
 
 <tr>
 <td>
-    <strong>Sloppy inversion and optimal experiment design for last glacial maximum Barents Sea Ice Sheet configuration</strong><br>
-    <strong>S. Kachuck</strong> and L. Cathles<br>
-    American Geosciences Union 2016<br>
+    <strong>Using geometry to improve model fitting and experiment design for glacial isostasy </strong><br>
+    <strong>S. **Kachuck</strong> and L. Cathles<br>
+    American Geosciences Union 2017<br>
     [P1] [<a href='' target='_blank'>pdf</a>] <br>
     
 </td>
@@ -416,9 +481,9 @@ We study shock wave formation and propagation in an experimental vertically driv
 
 <tr>
 <td>
-    <strong>GIA response suggests thick lithosphere under the Appalachians</strong><br>
-    <strong>S. Kachuck</strong> and L. Cathles<br>
-    Institute for the Study of the Continents 2014<br>
+    <strong>Sloppy inversion and optimal experiment design for last glacial maximum Barents Sea Ice Sheet configuration</strong><br>
+    <strong>S. **Kachuck</strong> and L. Cathles<br>
+    American Geosciences Union 2016<br>
     [P2] [<a href='' target='_blank'>pdf</a>] <br>
     
 </td>
@@ -427,9 +492,9 @@ We study shock wave formation and propagation in an experimental vertically driv
 
 <tr>
 <td>
-    <strong>North American Peripheral Bulge Constraints on Mantle Rheology</strong><br>
-    <strong>S. Kachuck</strong>, L. Cathles, A. Amantov, and W. Fjeldskaar<br>
-    European Geosciences Union 2014<br>
+    <strong>GIA response suggests thick lithosphere under the Appalachians</strong><br>
+    <strong>S. **Kachuck</strong> and L. Cathles<br>
+    Institute for the Study of the Continents 2014<br>
     [P3] [<a href='' target='_blank'>pdf</a>] <br>
     
 </td>
@@ -438,8 +503,8 @@ We study shock wave formation and propagation in an experimental vertically driv
 
 <tr>
 <td>
-    <strong>The SEAMOD methodology of GIA interpretation</strong><br>
-    L. Cathles, A. Amantov, <strong>S. Kachuck</strong>, and W. Fjeldskaar<br>
+    <strong>North American Peripheral Bulge Constraints on Mantle Rheology</strong><br>
+    <strong>S. **Kachuck</strong>, L. Cathles, A. Amantov, and W. Fjeldskaar<br>
     European Geosciences Union 2014<br>
     [P4] [<a href='' target='_blank'>pdf</a>] <br>
     
@@ -449,9 +514,9 @@ We study shock wave formation and propagation in an experimental vertically driv
 
 <tr>
 <td>
-    <strong>Lithosphere, Ice History, Local Emergence</strong><br>
-    <strong>S. Kachuck</strong> and L. Cathles<br>
-    European Geosciences Union 2013<br>
+    <strong>The SEAMOD methodology of GIA interpretation</strong><br>
+    L. Cathles, A. Amantov, <strong>S. **Kachuck</strong>, and W. Fjeldskaar<br>
+    European Geosciences Union 2014<br>
     [P5] [<a href='' target='_blank'>pdf</a>] <br>
     
 </td>
@@ -460,10 +525,21 @@ We study shock wave formation and propagation in an experimental vertically driv
 
 <tr>
 <td>
-    <strong>Granular Gravitational Collapse in Realistically Simulated Granular Gases</strong><br>
-    <strong>S. Kachuck</strong><br>
-    5th Annual Thesis Celebration 2010<br>
+    <strong>Lithosphere, Ice History, Local Emergence</strong><br>
+    <strong>S. **Kachuck</strong> and L. Cathles<br>
+    European Geosciences Union 2013<br>
     [P6] [<a href='' target='_blank'>pdf</a>] <br>
+    
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>Granular Gravitational Collapse in Realistically Simulated Granular Gases</strong><br>
+    <strong>S. **Kachuck</strong><br>
+    5th Annual Thesis Celebration 2010<br>
+    [P7] [<a href='' target='_blank'>pdf</a>] <br>
     
 </td>
 </tr>
