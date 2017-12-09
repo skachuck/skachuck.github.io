@@ -3,10 +3,10 @@ layout: default
 title: CV
 permalink: /cv/
 ---
-[/data/cv.pdf](PDF version here)
+[PDF version here](/data/cv.pdf)
 
 ## <i class="fa fa-chevron-right"></i> 
-I am seeking \bfpost-doctoral and \bffaculty positions researching the uncertainties of geophysical models related to local sea level changes.
+I am seeking post-doctoral and faculty positions researching the uncertainties in geophysical models related of local sea level changes.
 
 
 ## <i class="fa fa-chevron-right"></i> Education
