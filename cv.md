@@ -519,7 +519,7 @@ We study shock wave formation and propagation in an experimental vertically driv
 
 <tr>
 <td>
-    <strong>Using geometry to improve model fitting and experiment design for glacial isostasy </strong><br>
+    <strong>Using geometry to improve model fitting and experiment design for glacial isostasy \emph(invited) </strong><br>
     <strong>S. Kachuck</strong> and L. Cathles<br>
     American Geosciences Union 2017<br>
     [P1] [<a href='' target='_blank'>pdf</a>] <br>
