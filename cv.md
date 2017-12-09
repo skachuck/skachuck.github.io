@@ -321,6 +321,53 @@ Python, C/C++, FORTRAN, APL, LaTeX, Matlab
 </table>
 
 
+## <i class="fa fa-chevron-right"></i> Service
+<table class="table table-hover">
+<tr>
+  <td class='col-md-2'>2016-</td>
+  <td>
+    Letters to a Pre-Scientist
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2016-</td>
+  <td>
+    Local Geology Walk
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2013</td>
+  <td>
+    Graduate Teaching Assistant Review
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2012, 2013</td>
+  <td>
+    Graduate Teaching Assistant Training
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2012</td>
+  <td>
+    Alumni Day Physics Demonstrations
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2011</td>
+  <td>
+    Retrospective Degree Day Fluids Demonstrations
+    <!--  -->
+  </td>
+</tr>
+</table>
+
+
 ## <i class="fa fa-chevron-right"></i> All Publications
 <a href="https://scholar.google.com/citations?user=nuMklOMAAAAJ" class="btn btn-primary" style="padding: 0.3em;">
   <i class="ai ai-google-scholar"></i> Google Scholar
