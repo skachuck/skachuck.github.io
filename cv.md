@@ -3,8 +3,9 @@ layout: default
 title: CV
 permalink: /cv/
 ---
+<a href='/data/cv.pdf>PDF version here</a>
 ## <i class="fa fa-chevron-right"></i> 
-I am in the final year of a Ph.D. in geophysics at Cornell University. My interests  include fluid dynamics and statistical physics in general. I am currently working on glacial isostatic adjustment - how the earth responds viscoelastically to the mass redistributions of the last ice age, when over 4 million Gigatons of water moved from the oceans to the continents. My thesis research comprises the development and benchmarking of a tool for computing this response efficiently. It is the beginning of a comprehensive characterization of the errors in models of glacial isostasy and how these errors propagate to predictions of social importance, like land-water storage and sea-level changes.
+I am seeking \bfpost-doctoral and \bffaculty positions researching the uncertainties of geophysical models related to local sea level changes.
 
 
 ## <i class="fa fa-chevron-right"></i> Education
