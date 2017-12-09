@@ -3,7 +3,8 @@ layout: default
 title: CV
 permalink: /cv/
 ---
-<a href='/data/cv.pdf>PDF version here</a>
+[/data/cv.pdf](PDF version here)
+
 ## <i class="fa fa-chevron-right"></i> 
 I am seeking \bfpost-doctoral and \bffaculty positions researching the uncertainties of geophysical models related to local sea level changes.
 
