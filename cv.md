@@ -13,7 +13,7 @@ I am seeking post-doctoral and faculty positions researching the uncertainties i
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-3">Sep 2011 - May 2018 (expected)</td>
+    <td class="col-md-3">Sep 2011 - August 2018</td>
     <td>
         <strong>Ph.D. in Geophysics</strong>
         <br>
@@ -50,7 +50,14 @@ I am seeking post-doctoral and faculty positions researching the uncertainties i
 ## <i class="fa fa-chevron-right"></i> Research Experience
 <table class="table table-hover">
 <tr>
-  <td class='col-md-3'>May 2012 - Present</td>
+  <td class='col-md-3'>July 2018 - present</td>
+  <td>
+    <strong>University of Michigan</strong>, Prof. Jeremy Bassis <br>
+    Ice Sheet Dynamics
+  </td>
+</tr>
+<tr>
+  <td class='col-md-3'>May 2012 - May 2018</td>
   <td>
     <strong>Cornell University</strong>, Prof. Lawrence M. Cathles, III <br>
     Glacial Isostatic Modeling and Analysis
@@ -101,10 +108,10 @@ I am seeking post-doctoral and faculty positions researching the uncertainties i
 
 
 <tr>
-<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/sle-inprep.png" style="width:100px"/></td>
+<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/Kachuck-inprep.png" style="width:100px"/></td>
 <td>
-    <strong>Benchmarking the Sea Level Equation</strong><br>
-    R. Riva, G. Spada, .. .., <strong>S. Kachuck</strong>, and .. ..<br>
+    <strong>Nondimensionalized relaxation method for efficient computation of time-domain viscoelastic love numbers</strong><br>
+    <strong>S. Kachuck</strong><br>
     in prep in prep<br>
     [2]<br>
     
@@ -113,11 +120,11 @@ I am seeking post-doctoral and faculty positions researching the uncertainties i
 
 
 <tr>
-<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/Durkin-inprep.png" style="width:100px"/></td>
+<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/sle-inreview.png" style="width:100px"/></td>
 <td>
-    <strong>Sensitivity of Southeast Alaskan elastic uplift rates to uncertainty in Earth structure and decadal ice thinning rates</strong><br>
-    W. Durkin, <strong>S. Kachuck</strong>, and M. Pritchard<br>
-    in prep in prep<br>
+    <strong>A benchmark study of numerical implementations of the sea-level equation in GIA modelling</strong><br>
+    Z. Martinec, V. Klemann, .. .., and <strong>S. Kachuck</strong><br>
+    in review in review<br>
     [3]<br>
     
 </td>
@@ -125,11 +132,11 @@ I am seeking post-doctoral and faculty positions researching the uncertainties i
 
 
 <tr>
-<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/Kachuck-inprep.png" style="width:100px"/></td>
+<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/Durkin-inreview.png" style="width:100px"/></td>
 <td>
-    <strong>Nondimensionalized relaxation method for efficient computation of time-domain viscoelastic love numbers</strong><br>
-    <strong>S. Kachuck</strong><br>
-    in prep in prep<br>
+    <strong>Sensitivity of Southeast Alaskan elastic uplift rates to uncertainty in Earth structure and decadal ice thinning rates</strong><br>
+    W. Durkin, <strong>S. Kachuck</strong>, and M. Pritchard<br>
+    in review in review<br>
     [4]<br>
     
 </td>
@@ -137,17 +144,17 @@ I am seeking post-doctoral and faculty positions researching the uncertainties i
 
 
 <tr>
-<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/Kachuck-inpress.png" style="width:100px"/></td>
+<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/Kachuck2018.png" style="width:100px"/></td>
 <td>
     <strong>Constraining the Geometry and Volume of the Barents Sea Ice Sheet</strong><br>
     <strong>S. Kachuck</strong> and L. Cathles<br>
-    JQS in review<br>
+    JQS 2018<br>
     [5] 
 [<a href='javascript: none'
-    onclick='$("#abs_Kachuck-inpress").toggle()'>abs</a>]<br>
+    onclick='$("#abs_Kachuck2018").toggle()'>abs</a>]<br>
     
-<div id="abs_Kachuck-inpress" style="text-align: justify; display: none" markdown="1">
-The ice load configuration of the Barents Sea Ice Sheet (BSIS) over the last glacial cycle is in dispute. The traditional reconstruction, motivated by the observation that paleo-shoreline emergence increases toward the center of the Barents Sea, places a single dome in the center of the Barents Sea at the last glacial maximum (LGM) that collapses to island centered loads during deglaciation. Observations that suggest that ice flowed from the islands into the Barents even at the LGM motivate another reconstruction that places the ice loads over the islands with minimal marine ice. We analyze an ensemble of ice loads that are consistent with the geophysical observations using relatively new statistical methods and show that current relative sea level, GPS and gravity measurement do not and cannot distinguish a central dome from an island-centered BSIS. What is needed are constraints in the central Barents Sea.  Improving the gravity data sufficiently will be difficult.  However, obtaining even a single GPS uplift rate measurement in the central Barents would resolve the central dome versus island centered BSIS geometry question.  The Barents Sea ice load geometry uncertainty provides a good illustration of statistical methods that may be useful in other areas of glaciology.
+<div id="abs_Kachuck2018" style="text-align: justify; display: none" markdown="1">
+The ice load configuration of the Barents Sea Ice Sheet (BSIS) over the last glacial cycle is in dispute. The traditional reconstruction, motivated by the observation that paleo-shoreline emergence increases toward the center of the Barents Sea, places a single dome in the center of the Barents Sea at the last glacial maximum (LGM) that collapses to island centered loads during deglaciation. Observations that suggest that ice flowed from the islands into the Barents even at the LGM motivate another reconstruction that places the ice loads over the islands with minimal marine ice. We analyze an ensemble of ice loads that are consistent with the geophysical observations using relatively new statistical methods and show that current relative sea level, GPS and gravity measurement do not and cannot distinguish a central dome from an island-centered BSIS. What is needed are constraints in the central Barents Sea.  Improving the gravity data sufficiently will be difficult.  However, obtaining even a single GPS uplift rate measurement in the central Barents would resolve the central dome versus island centered BSIS geometry question.  The Barents Sea ice load geometry uncertainty provides a good illustration of statistical methods that may be useful in other areas of glaciology.    
 </div>
 
 </td>
@@ -155,14 +162,14 @@ The ice load configuration of the Barents Sea Ice Sheet (BSIS) over the last gla
 
 
 <tr>
-<td class="col-md-3" style="width:25%" valign="top"><a href='http://link.aps.org/doi/10.1103/PhysRevE.88.062202' target='_blank'><img src="/images/publications/Kachuck2013.png" style="width:100px"/></a> </td>
+<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/Kachuck2013.png" style="width:100px"/></td>
 <td>
     <strong>Simulations of granular gravitational collapse</strong><br>
     <strong>S. Kachuck</strong> and G. Voth<br>
     PRE 2013<br>
     [6] 
 [<a href='javascript: none'
-    onclick='$("#abs_Kachuck2013").toggle()'>abs</a>] [<a href='http://link.aps.org/doi/10.1103/PhysRevE.88.062202' target='_blank'>pdf</a>] <br>
+    onclick='$("#abs_Kachuck2013").toggle()'>abs</a>]<br>
     
 <div id="abs_Kachuck2013" style="text-align: justify; display: none" markdown="1">
 A freely cooling granular gas in a gravitational field undergoes a collapse to a multicontact state in a finite time. Previous theoretical [D. Volfson et al., Phys. Rev. E 73, 061305 (2006)] and experimental work [R. Son et al., Phys. Rev. E 78, 041302 (2008)] have obtained contradictory results about the rate of energy loss before the gravitational collapse. Here we use a molecular dynamics simulation in an attempt to recreate the experimental and theoretical results to resolve the discrepancy. We are able to nearly match the experimental results, and find that to reproduce the power law predicted in the theory we need a nearly elastic system with a constant coefficient of restitution greater than 0.993. For the more realistic velocity-dependent coefficient of restitution, there does not appear to be a power-law decay and the transition from granular gas to granular solid is smooth, making it difficult to define a time of collapse.
@@ -173,14 +180,14 @@ A freely cooling granular gas in a gravitational field undergoes a collapse to a
 
 
 <tr>
-<td class="col-md-3" style="width:25%" valign="top"><a href='http://link.aps.org/doi/10.1103/PhysRevE.78.041309' target='_blank'><img src="/images/publications/Perez2008.png" style="width:100px"/></a> </td>
+<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/Perez2008.png" style="width:100px"/></td>
 <td>
     <strong>Visualization of collisional substructure in granular shock waves</strong><br>
     J. Perez, <strong>S. Kachuck</strong>, and G. Voth<br>
     PRE 2008<br>
     [7] 
 [<a href='javascript: none'
-    onclick='$("#abs_Perez2008").toggle()'>abs</a>] [<a href='http://link.aps.org/doi/10.1103/PhysRevE.78.041309' target='_blank'>pdf</a>] <br>
+    onclick='$("#abs_Perez2008").toggle()'>abs</a>]<br>
     
 <div id="abs_Perez2008" style="text-align: justify; display: none" markdown="1">
 We study shock wave formation and propagation in an experimental vertically driven quasi-two-dimensional granular gas. We measure the moments of the single particle velocity distribution as a function of space and time. The space-time fields of the velocity moments show acoustic waves with a serrated substructure on the scale of a particle diameter. We show that this substructure is the result of collisional transport in which sequential collisions each transport momentum and energy by one particle diameter.
@@ -392,8 +399,8 @@ Python, C/C++, FORTRAN, APL, LaTeX, Matlab
 
 <tr>
 <td>
-    <strong>Benchmarking the Sea Level Equation</strong><br>
-    R. Riva, G. Spada, .. .., <strong>S. Kachuck</strong>, and .. ..<br>
+    <strong>Nondimensionalized relaxation method for efficient computation of time-domain viscoelastic love numbers</strong><br>
+    <strong>S. Kachuck</strong><br>
     in prep in prep<br>
     [J2]<br>
     
@@ -403,9 +410,9 @@ Python, C/C++, FORTRAN, APL, LaTeX, Matlab
 
 <tr>
 <td>
-    <strong>Sensitivity of Southeast Alaskan elastic uplift rates to uncertainty in Earth structure and decadal ice thinning rates</strong><br>
-    W. Durkin, <strong>S. Kachuck</strong>, and M. Pritchard<br>
-    in prep in prep<br>
+    <strong>A benchmark study of numerical implementations of the sea-level equation in GIA modelling</strong><br>
+    Z. Martinec, V. Klemann, .. .., and <strong>S. Kachuck</strong><br>
+    in review in review<br>
     [J3]<br>
     
 </td>
@@ -414,9 +421,9 @@ Python, C/C++, FORTRAN, APL, LaTeX, Matlab
 
 <tr>
 <td>
-    <strong>Nondimensionalized relaxation method for efficient computation of time-domain viscoelastic love numbers</strong><br>
-    <strong>S. Kachuck</strong><br>
-    in prep in prep<br>
+    <strong>Sensitivity of Southeast Alaskan elastic uplift rates to uncertainty in Earth structure and decadal ice thinning rates</strong><br>
+    W. Durkin, <strong>S. Kachuck</strong>, and M. Pritchard<br>
+    in review in review<br>
     [J4]<br>
     
 </td>
@@ -427,13 +434,13 @@ Python, C/C++, FORTRAN, APL, LaTeX, Matlab
 <td>
     <strong>Constraining the Geometry and Volume of the Barents Sea Ice Sheet</strong><br>
     <strong>S. Kachuck</strong> and L. Cathles<br>
-    JQS in review<br>
+    JQS 2018<br>
     [J5] 
 [<a href='javascript: none'
-    onclick='$("#abs_Kachuck-inpressJ").toggle()'>abs</a>]<br>
+    onclick='$("#abs_Kachuck2018J").toggle()'>abs</a>]<br>
     
-<div id="abs_Kachuck-inpressJ" style="text-align: justify; display: none" markdown="1">
-The ice load configuration of the Barents Sea Ice Sheet (BSIS) over the last glacial cycle is in dispute. The traditional reconstruction, motivated by the observation that paleo-shoreline emergence increases toward the center of the Barents Sea, places a single dome in the center of the Barents Sea at the last glacial maximum (LGM) that collapses to island centered loads during deglaciation. Observations that suggest that ice flowed from the islands into the Barents even at the LGM motivate another reconstruction that places the ice loads over the islands with minimal marine ice. We analyze an ensemble of ice loads that are consistent with the geophysical observations using relatively new statistical methods and show that current relative sea level, GPS and gravity measurement do not and cannot distinguish a central dome from an island-centered BSIS. What is needed are constraints in the central Barents Sea.  Improving the gravity data sufficiently will be difficult.  However, obtaining even a single GPS uplift rate measurement in the central Barents would resolve the central dome versus island centered BSIS geometry question.  The Barents Sea ice load geometry uncertainty provides a good illustration of statistical methods that may be useful in other areas of glaciology.
+<div id="abs_Kachuck2018J" style="text-align: justify; display: none" markdown="1">
+The ice load configuration of the Barents Sea Ice Sheet (BSIS) over the last glacial cycle is in dispute. The traditional reconstruction, motivated by the observation that paleo-shoreline emergence increases toward the center of the Barents Sea, places a single dome in the center of the Barents Sea at the last glacial maximum (LGM) that collapses to island centered loads during deglaciation. Observations that suggest that ice flowed from the islands into the Barents even at the LGM motivate another reconstruction that places the ice loads over the islands with minimal marine ice. We analyze an ensemble of ice loads that are consistent with the geophysical observations using relatively new statistical methods and show that current relative sea level, GPS and gravity measurement do not and cannot distinguish a central dome from an island-centered BSIS. What is needed are constraints in the central Barents Sea.  Improving the gravity data sufficiently will be difficult.  However, obtaining even a single GPS uplift rate measurement in the central Barents would resolve the central dome versus island centered BSIS geometry question.  The Barents Sea ice load geometry uncertainty provides a good illustration of statistical methods that may be useful in other areas of glaciology.    
 </div>
 
 </td>
@@ -447,7 +454,7 @@ The ice load configuration of the Barents Sea Ice Sheet (BSIS) over the last gla
     PRE 2013<br>
     [J6] 
 [<a href='javascript: none'
-    onclick='$("#abs_Kachuck2013J").toggle()'>abs</a>] [<a href='http://link.aps.org/doi/10.1103/PhysRevE.88.062202' target='_blank'>pdf</a>] <br>
+    onclick='$("#abs_Kachuck2013J").toggle()'>abs</a>]<br>
     
 <div id="abs_Kachuck2013J" style="text-align: justify; display: none" markdown="1">
 A freely cooling granular gas in a gravitational field undergoes a collapse to a multicontact state in a finite time. Previous theoretical [D. Volfson et al., Phys. Rev. E 73, 061305 (2006)] and experimental work [R. Son et al., Phys. Rev. E 78, 041302 (2008)] have obtained contradictory results about the rate of energy loss before the gravitational collapse. Here we use a molecular dynamics simulation in an attempt to recreate the experimental and theoretical results to resolve the discrepancy. We are able to nearly match the experimental results, and find that to reproduce the power law predicted in the theory we need a nearly elastic system with a constant coefficient of restitution greater than 0.993. For the more realistic velocity-dependent coefficient of restitution, there does not appear to be a power-law decay and the transition from granular gas to granular solid is smooth, making it difficult to define a time of collapse.
@@ -464,7 +471,7 @@ A freely cooling granular gas in a gravitational field undergoes a collapse to a
     PRE 2008<br>
     [J7] 
 [<a href='javascript: none'
-    onclick='$("#abs_Perez2008J").toggle()'>abs</a>] [<a href='http://link.aps.org/doi/10.1103/PhysRevE.78.041309' target='_blank'>pdf</a>] <br>
+    onclick='$("#abs_Perez2008J").toggle()'>abs</a>]<br>
     
 <div id="abs_Perez2008J" style="text-align: justify; display: none" markdown="1">
 We study shock wave formation and propagation in an experimental vertically driven quasi-two-dimensional granular gas. We measure the moments of the single particle velocity distribution as a function of space and time. The space-time fields of the velocity moments show acoustic waves with a serrated substructure on the scale of a particle diameter. We show that this substructure is the result of collisional transport in which sequential collisions each transport momentum and energy by one particle diameter.
@@ -481,10 +488,32 @@ We study shock wave formation and propagation in an experimental vertically driv
 
 <tr>
 <td>
+    <strong>A benchmark study of numerical implementations of the sea-level equation in GIA modelling</strong><br>
+    Z. Martinec, V. Klemann, .. .., and <strong>S. Kachuck</strong><br>
+    EGU 2018<br>
+    [O1]<br>
+    
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>Impact of different crustal elastic models on interpreting regional GIA deformation in southeast Alaska</strong><br>
+    W. Durkin, <strong>S. Kachuck</strong>, and M. Pritchard<br>
+    EGU 2018<br>
+    [O2]<br>
+    
+</td>
+</tr>
+
+
+<tr>
+<td>
     <strong>Nondimensionalized relaxation method for efficient computation of elastic Love numbers</strong><br>
     <strong>S. Kachuck</strong> and L. Cathles<br>
     Workshop on Glacial Isostatic Adjustment and Elastic Deformation 2017<br>
-    [O1] [<a href='' target='_blank'>pdf</a>] <br>
+    [O3]<br>
     
 </td>
 </tr>
@@ -495,7 +524,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>Emergence constraints on Late Weichselian Barents Sea ice sheet history</strong><br>
     <strong>S. Kachuck</strong>, L. Cathles, A. Amantov, A. Hormes, and W. Fjeldskaar<br>
     EGU 2014<br>
-    [O2] [<a href='' target='_blank'>pdf</a>] <br>
+    [O4]<br>
     
 </td>
 </tr>
@@ -506,7 +535,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>Velocity dependent energy loss in granular gravitational collapse</strong><br>
     <strong>S. Kachuck</strong><br>
     New York Condesnsed Matter Workshop 2011<br>
-    [O3] [<a href='' target='_blank'>pdf</a>] <br>
+    [O5]<br>
     
 </td>
 </tr>
@@ -519,10 +548,10 @@ We study shock wave formation and propagation in an experimental vertically driv
 
 <tr>
 <td>
-    <strong>Using geometry to improve model fitting and experiment design for glacial isostasy \emph(invited) </strong><br>
+    <strong>Using geometry to improve model fitting and experiment design for glacial isostasy \emph{(invited) }</strong><br>
     <strong>S. Kachuck</strong> and L. Cathles<br>
     American Geosciences Union 2017<br>
-    [P1] [<a href='' target='_blank'>pdf</a>] <br>
+    [P1]<br>
     
 </td>
 </tr>
@@ -533,7 +562,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>Sloppy inversion and optimal experiment design for last glacial maximum Barents Sea Ice Sheet configuration</strong><br>
     <strong>S. Kachuck</strong> and L. Cathles<br>
     American Geosciences Union 2016<br>
-    [P2] [<a href='' target='_blank'>pdf</a>] <br>
+    [P2]<br>
     
 </td>
 </tr>
@@ -544,7 +573,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>GIA response suggests thick lithosphere under the Appalachians</strong><br>
     <strong>S. Kachuck</strong> and L. Cathles<br>
     Institute for the Study of the Continents 2014<br>
-    [P3] [<a href='' target='_blank'>pdf</a>] <br>
+    [P3]<br>
     
 </td>
 </tr>
@@ -555,7 +584,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>North American Peripheral Bulge Constraints on Mantle Rheology</strong><br>
     <strong>S. Kachuck</strong>, L. Cathles, A. Amantov, and W. Fjeldskaar<br>
     European Geosciences Union 2014<br>
-    [P4] [<a href='' target='_blank'>pdf</a>] <br>
+    [P4]<br>
     
 </td>
 </tr>
@@ -566,7 +595,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>The SEAMOD methodology of GIA interpretation</strong><br>
     L. Cathles, A. Amantov, <strong>S. Kachuck</strong>, and W. Fjeldskaar<br>
     European Geosciences Union 2014<br>
-    [P5] [<a href='' target='_blank'>pdf</a>] <br>
+    [P5]<br>
     
 </td>
 </tr>
@@ -577,7 +606,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>Lithosphere, Ice History, Local Emergence</strong><br>
     <strong>S. Kachuck</strong> and L. Cathles<br>
     European Geosciences Union 2013<br>
-    [P6] [<a href='' target='_blank'>pdf</a>] <br>
+    [P6]<br>
     
 </td>
 </tr>
@@ -588,7 +617,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>Granular Gravitational Collapse in Realistically Simulated Granular Gases</strong><br>
     <strong>S. Kachuck</strong><br>
     5th Annual Thesis Celebration 2010<br>
-    [P7] [<a href='' target='_blank'>pdf</a>] <br>
+    [P7]<br>
     
 </td>
 </tr>
