@@ -6,7 +6,7 @@ permalink: /cv/
 [PDF version here](/data/cv.pdf)
 
 ## <i class="fa fa-chevron-right"></i> 
-I am seeking post-doctoral and faculty positions researching the uncertainties in geophysical models related of local sea level changes.
+I am seeking faculty positions researching the uncertainties in the geophysical models of global and local mean sea level changes.
 
 
 ## <i class="fa fa-chevron-right"></i> Education

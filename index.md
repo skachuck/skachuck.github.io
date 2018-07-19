@@ -4,7 +4,11 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 --- 
+#{% include image.html
+#    img="images/famphoto1.jpg"
+#    title="Family Photo"
+#    caption="Me (left) with my wife and newborn." %}
 {% include image.html
-    img="images/famphoto1.jpg"
+    img="images/famphoto2.jpg"
     title="Family Photo"
-    caption="Me (left) with my wife and newborn." %}
+    caption="Me (middle) with my wife and 1-year-old at Watkins Glen State Park." %}
