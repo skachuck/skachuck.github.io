@@ -6,8 +6,8 @@ permalink: /thoughts/
 
 <div class="home">
 
-<h2>Strawman in the Street</h1>
-<h1>Arguments with the people in my head</h2>
+<h2>Strawman in the Street</h2>
+<h1>Arguments with the people in my head</h1>
 
 I’m generally afraid to share opinions. No matter how careful I try to be, I'll always say something that isn't quite representative of what I think or what I think may not quite capture the subtleties of the topic. But shutting up’s decidedly not how to get good at developing opinions, and while some of the things I say may be steps backwards, saying nothing at all is assuredly a non-step nowhere. So I'll write them down for you here. And in writing them down, I'll join with the ranks who lack sense, as Plato has Socrates describe to Phaedrus (276c, translated by Alexander Nehamas and Paul Woodruff, in the Complete Works of Plato, Hackett Publishing 1997):
 
