@@ -355,6 +355,13 @@ Python, C/C++, FORTRAN, APL, LaTeX, Matlab
 ## <i class="fa fa-chevron-right"></i> Service
 <table class="table table-hover">
 <tr>
+  <td class='col-md-2'>2018-</td>
+  <td>
+    Peer Reviewer: JGR: Solid Earth, Solid Earth
+    <!--  -->
+  </td>
+</tr>
+<tr>
   <td class='col-md-2'>2016-</td>
   <td>
     Letters to a Pre-Scientist
