@@ -96,11 +96,11 @@ I am seeking faculty positions researching the uncertainties in the geophysical 
 <table class="table table-hover">
 
 <tr>
-<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/sloppy-inprep.png" style="width:100px"/></td>
+<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/kachuck2019RapidGlacier.png" style="width:100px"/></td>
 <td>
-    <strong>Geometric perspective on fitting glacial isostatic adjustment</strong><br>
-    <strong>S. Kachuck</strong><br>
-    in prep in prep<br>
+    <strong>Rapid viscoelastic deformation lows marine ice sheet instability at Pine Island Glacier</strong><br>
+    <strong>S. Kachuck</strong>, D. Martin, J. Bassis, and S. Price<br>
+    GRL in review<br>
     [1]<br>
     
 </td>
@@ -108,37 +108,55 @@ I am seeking faculty positions researching the uncertainties in the geophysical 
 
 
 <tr>
-<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/Kachuck-inprep.png" style="width:100px"/></td>
+<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/kachuck2019BenchmarkedMantles.png" style="width:100px"/></td>
 <td>
-    <strong>Nondimensionalized relaxation method for efficient computation of time-domain viscoelastic love numbers</strong><br>
-    <strong>S. Kachuck</strong><br>
-    in prep in prep<br>
-    [2]<br>
+    <strong>Benchmarked computation of time-domain viscoelastic Love numbers for adiabatic mantles</strong><br>
+    <strong>S. Kachuck</strong> and L. Cathles<br>
+    GJI 2019<br>
+    [2] 
+[<a href='javascript: none'
+    onclick='$("#abs_kachuck2019BenchmarkedMantles").toggle()'>abs</a>]<br>
     
+<div id="abs_kachuck2019BenchmarkedMantles" style="text-align: justify; display: none" markdown="1">
+The viscoelastic load Love numbers encapsulate the Earth’s rheology in a remarkably efficient fashion. When multiplied by a sudden increment of spherical harmonic load change, they give the horizontal and vertical surface displacements and gravity change at all later times. Incremental glacial load changes thus need only be harmonically decomposed, multiplied by the Love numbers and summed to predict the Earth’s response to glacial load redistributions. The computation of viscoelastic Love numbers from the elastic, viscous and adiabatic profiles of the Earth is thus the foundation upon which many glacial isostatic adjustment models are based. Usually, viscoelastic Love numbers are computed using the Laplace transform method, employing the correspondence principle to convert the viscoelastic equations of motion into the elastic equations with complex material parameters. This method works well for a fully non-adiabatic Earth, but can accommodate realistic partially adiabatic and fully adiabatic conditions only by changing the Earth’s density profile. An alternative method of Love number computation developed by Cathles (1975) avoids this dilemma by separating the elastic and viscous equations of motion. The separation neglects a small solid-elastic/fluid-elastic transition for compressible deformation, but allows freely defining adiabatic, partially adiabatic or fully non-adiabatic profiles in the mantle without changing the Earth’s density profile. Here, we update and fully describe this method and show that it produces Love numbers closely similar to those computed for fully non-adiabatic earth models computed by the correspondence principle, finite element and other methods. The time-domain method produces Love numbers as good as those produced by other methods and can also realistically accommodate any degree of mantle adiabaticity. All method implementations are available open source.
+</div>
+
 </td>
 </tr>
 
 
 <tr>
-<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/sle-inreview.png" style="width:100px"/></td>
+<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/durkin2019importance.png" style="width:100px"/></td>
 <td>
-    <strong>A benchmark study of numerical implementations of the sea-level equation in GIA modelling</strong><br>
-    Z. Martinec, V. Klemann, .. .., and <strong>S. Kachuck</strong><br>
-    in review in review<br>
-    [3]<br>
-    
-</td>
-</tr>
-
-
-<tr>
-<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/Durkin-inreview.png" style="width:100px"/></td>
-<td>
-    <strong>Sensitivity of Southeast Alaskan elastic uplift rates to uncertainty in Earth structure and decadal ice thinning rates</strong><br>
+    <strong>The Importance of the Inelastic and Elastic Structures of the Crust in Constraining Glacial Density, Mass Change, and Isostatic Adjustment From Geodetic Observations in Southeast Alaska</strong><br>
     W. Durkin, <strong>S. Kachuck</strong>, and M. Pritchard<br>
-    in review in review<br>
-    [4]<br>
+    JGR: Solid Earth 2019<br>
+    [3] 
+[<a href='javascript: none'
+    onclick='$("#abs_durkin2019importance").toggle()'>abs</a>]<br>
     
+<div id="abs_durkin2019importance" style="text-align: justify; display: none" markdown="1">
+Elastic deformation of the solid Earth in response to ice mass loss offers a promising constraint on the density of glacial material lost. Further, the elastic response to modern deglaciation is important to constrain for studies of glacial isostatic adjustment to determine the mantle's structure and rheology. Models of this elastic uplift are commonly based on the 1-D, seismically derived global average Preliminary Reference Earth Model and typically neglect uncertainties that can arise from regional differences in elastic structure from that of the global average, lateral heterogeneities within the region, and inelastic behavior of the crust. We quantify these uncertainties using an ensemble of 1-D local elastic structure models and empirical relations for the effects of inelasticity in the upper 10 km of the crust. In Southeast Alaska, modeling elastic uplift rates with local elastic structures results in up to a 20–40 percent difference from those modeled with the Preliminary Reference Earth Model. Although these differences are limited to regions near to ice-covered areas, they are comparable to the differences in uplift rates expected from the loss of firn versus loss of ice. Far from ice-covered areas, where most of the region's GPS observations were made, these differences become insignificant and do not affect previous glacial isostatic adjustment studies in the region. The methods presented here are based on the globally available LITHO1.0 seismic model and open source software, and the approach of using an ensemble of 1-D elastic structures can be easily adapted to other regions around the world.
+</div>
+
+</td>
+</tr>
+
+
+<tr>
+<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/martinec2018Amodelling.png" style="width:100px"/></td>
+<td>
+    <strong>A benchmark study of numerical implementations of the sea level equation in GIA modelling</strong><br>
+    Z. Martinec, V. Klemann, W. der Wal, R. Riva, G. Spada, Y. Sun, D. Melini, <strong>S. Kachuck</strong>, V. Barletta, K. Simon, G. A, and T. James<br>
+    GJI 2018<br>
+    [4] 
+[<a href='javascript: none'
+    onclick='$("#abs_martinec2018Amodelling").toggle()'>abs</a>]<br>
+    
+<div id="abs_martinec2018Amodelling" style="text-align: justify; display: none" markdown="1">
+The ocean load in glacial isostatic adjustment (GIA) modelling is represented by the so-called sea level equation (SLE). The SLE describes the mass redistribution of water between ice sheets and oceans on a deforming Earth. Despite various teams independently investigating GIA, there has been no systematic intercomparison among the numerical solvers of the SLE through which the methods may be validated. The goal of this paper is to present a series of synthetic examples designed for testing and comparing the numerical implementations of the SLE in GIA modelling. The 10 numerical codes tested combine various temporal and spatial parametrizations. The time-domain or Laplace-domain discretizations are used to solve the SLE through time, while spherical harmonics, finite differences or finite elements parametrize the GIA-related field variables spatially. The surface ice-water load and solid Earth’s topography are represented spatially either on an equiangular grid, a Gauss–Legendre or an equiarea grid with icosahedron-shaped spherical pixels. Comparisons are made in a series of five benchmark examples with an increasing degree of complexity. Due to the complexity of the SLE, there is no analytical solution to it. The accuracy of the numerical implementations is therefore assessed by the differences of the individual solutions with respect to a reference solution. While the benchmark study does not result in GIA predictions for a realistic loading scenario, we establish a set of agreed-upon results that can be extended in the future by including more complex case studies, such as solutions with realistic loading scenarios, the rotational feedback in the linear-momentum equation, and by considering a 3-D viscosity structure of the Earth’s mantle. The test computations performed so far show very good agreement between the individual results and their ability to capture the main features of sea-surface variation and the surface vertical displacement. The differences found can often be attributed to the different approximations inherent in the various algorithms. This shows the accuracy that can be expected from different implementations of the SLE, which helps to assess differences noted in the literature between predictions for realistic loading cases.
+</div>
+
 </td>
 </tr>
 
@@ -203,7 +221,11 @@ We study shock wave formation and propagation in an experimental vertically driv
 ## <i class="fa fa-chevron-right"></i> Teaching Experience
 <table class="table table-hover">
 <tr>
-  <td class='col-md-1'>S2012 - present</td>
+  <td class='col-md-1'>F2019</td>
+  <td><strong>Earth Systems Modeling</strong> (UM CLaSP 410), Instructor</td>
+</tr>
+<tr>
+  <td class='col-md-1'>S2012 - S2018</td>
   <td><strong>Private Tutor</strong> (PHYS 2207, 2208, 1112, 2213, 2216; MAE 3780; CEE 3310), </td>
 </tr>
 <tr>
@@ -340,7 +362,28 @@ Python, C/C++, FORTRAN, APL, LaTeX, Matlab
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>2016-</td>
+  <td class='col-md-2'>2019</td>
+  <td>
+    International Thwaites Glacier Collaboration: Early Career Reteat
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2018</td>
+  <td>
+    AGU Fall Meeting OSPA Judge
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2018</td>
+  <td>
+    Antarctic Week
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2016-2018</td>
   <td>
     Local Geology Walk
     <!--  -->
@@ -399,9 +442,9 @@ Python, C/C++, FORTRAN, APL, LaTeX, Matlab
 
 <tr>
 <td>
-    <strong>Nondimensionalized relaxation method for efficient computation of time-domain viscoelastic love numbers</strong><br>
-    <strong>S. Kachuck</strong><br>
-    in prep in prep<br>
+    <strong>Rapid viscoelastic deformation slows marine ice sheet instability at Pine Island Glacier</strong><br>
+    <strong>S. Kachuck</strong>, D. Martin, J. Bassis, and S. Price<br>
+    GRL in review<br>
     [J2]<br>
     
 </td>
@@ -410,22 +453,51 @@ Python, C/C++, FORTRAN, APL, LaTeX, Matlab
 
 <tr>
 <td>
-    <strong>A benchmark study of numerical implementations of the sea-level equation in GIA modelling</strong><br>
-    Z. Martinec, V. Klemann, .. .., and <strong>S. Kachuck</strong><br>
-    in review in review<br>
-    [J3]<br>
+    <strong>Benchmarked computation of time-domain viscoelastic Love numbers for adiabatic mantles</strong><br>
+    <strong>S. Kachuck</strong> and L. Cathles<br>
+    GJI 2019<br>
+    [J3] 
+[<a href='javascript: none'
+    onclick='$("#abs_kachuck2019BenchmarkedMantlesJ").toggle()'>abs</a>]<br>
     
+<div id="abs_kachuck2019BenchmarkedMantlesJ" style="text-align: justify; display: none" markdown="1">
+The viscoelastic load Love numbers encapsulate the Earth’s rheology in a remarkably efficient fashion. When multiplied by a sudden increment of spherical harmonic load change, they give the horizontal and vertical surface displacements and gravity change at all later times. Incremental glacial load changes thus need only be harmonically decomposed, multiplied by the Love numbers and summed to predict the Earth’s response to glacial load redistributions. The computation of viscoelastic Love numbers from the elastic, viscous and adiabatic profiles of the Earth is thus the foundation upon which many glacial isostatic adjustment models are based. Usually, viscoelastic Love numbers are computed using the Laplace transform method, employing the correspondence principle to convert the viscoelastic equations of motion into the elastic equations with complex material parameters. This method works well for a fully non-adiabatic Earth, but can accommodate realistic partially adiabatic and fully adiabatic conditions only by changing the Earth’s density profile. An alternative method of Love number computation developed by Cathles (1975) avoids this dilemma by separating the elastic and viscous equations of motion. The separation neglects a small solid-elastic/fluid-elastic transition for compressible deformation, but allows freely defining adiabatic, partially adiabatic or fully non-adiabatic profiles in the mantle without changing the Earth’s density profile. Here, we update and fully describe this method and show that it produces Love numbers closely similar to those computed for fully non-adiabatic earth models computed by the correspondence principle, finite element and other methods. The time-domain method produces Love numbers as good as those produced by other methods and can also realistically accommodate any degree of mantle adiabaticity. All method implementations are available open source.
+</div>
+
 </td>
 </tr>
 
 
 <tr>
 <td>
-    <strong>Sensitivity of Southeast Alaskan elastic uplift rates to uncertainty in Earth structure and decadal ice thinning rates</strong><br>
+    <strong>The Importance of the Inelastic and Elastic Structures of the Crust in Constraining Glacial Density, Mass Change, and Isostatic Adjustment From Geodetic Observations in Southeast Alaska</strong><br>
     W. Durkin, <strong>S. Kachuck</strong>, and M. Pritchard<br>
-    in review in review<br>
-    [J4]<br>
+    JGR: Solid Earth 2019<br>
+    [J4] 
+[<a href='javascript: none'
+    onclick='$("#abs_durkin2019importanceJ").toggle()'>abs</a>]<br>
     
+<div id="abs_durkin2019importanceJ" style="text-align: justify; display: none" markdown="1">
+Elastic deformation of the solid Earth in response to ice mass loss offers a promising constraint on the density of glacial material lost. Further, the elastic response to modern deglaciation is important to constrain for studies of glacial isostatic adjustment to determine the mantle's structure and rheology. Models of this elastic uplift are commonly based on the 1-D, seismically derived global average Preliminary Reference Earth Model and typically neglect uncertainties that can arise from regional differences in elastic structure from that of the global average, lateral heterogeneities within the region, and inelastic behavior of the crust. We quantify these uncertainties using an ensemble of 1-D local elastic structure models and empirical relations for the effects of inelasticity in the upper 10 km of the crust. In Southeast Alaska, modeling elastic uplift rates with local elastic structures results in up to a 20–40 percent difference from those modeled with the Preliminary Reference Earth Model. Although these differences are limited to regions near to ice-covered areas, they are comparable to the differences in uplift rates expected from the loss of firn versus loss of ice. Far from ice-covered areas, where most of the region's GPS observations were made, these differences become insignificant and do not affect previous glacial isostatic adjustment studies in the region. The methods presented here are based on the globally available LITHO1.0 seismic model and open source software, and the approach of using an ensemble of 1-D elastic structures can be easily adapted to other regions around the world.
+</div>
+
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>A benchmark study of numerical implementations of the sea level equation in GIA modelling</strong><br>
+    Z. Martinec, V. Klemann, W. der Wal, R. Riva, G. Spada, Y. Sun, D. Melini, <strong>S. Kachuck</strong>, V. Barletta, K. Simon, G. A, and T. James<br>
+    GJI 2018<br>
+    [J5] 
+[<a href='javascript: none'
+    onclick='$("#abs_martinec2019AmodellingJ").toggle()'>abs</a>]<br>
+    
+<div id="abs_martinec2019AmodellingJ" style="text-align: justify; display: none" markdown="1">
+The ocean load in glacial isostatic adjustment (GIA) modelling is represented by the so-called sea level equation (SLE). The SLE describes the mass redistribution of water between ice sheets and oceans on a deforming Earth. Despite various teams independently investigating GIA, there has been no systematic intercomparison among the numerical solvers of the SLE through which the methods may be validated. The goal of this paper is to present a series of synthetic examples designed for testing and comparing the numerical implementations of the SLE in GIA modelling. The 10 numerical codes tested combine various temporal and spatial parametrizations. The time-domain or Laplace-domain discretizations are used to solve the SLE through time, while spherical harmonics, finite differences or finite elements parametrize the GIA-related field variables spatially. The surface ice-water load and solid Earth’s topography are represented spatially either on an equiangular grid, a Gauss–Legendre or an equiarea grid with icosahedron-shaped spherical pixels. Comparisons are made in a series of five benchmark examples with an increasing degree of complexity. Due to the complexity of the SLE, there is no analytical solution to it. The accuracy of the numerical implementations is therefore assessed by the differences of the individual solutions with respect to a reference solution. While the benchmark study does not result in GIA predictions for a realistic loading scenario, we establish a set of agreed-upon results that can be extended in the future by including more complex case studies, such as solutions with realistic loading scenarios, the rotational feedback in the linear-momentum equation, and by considering a 3-D viscosity structure of the Earth’s mantle. The test computations performed so far show very good agreement between the individual results and their ability to capture the main features of sea-surface variation and the surface vertical displacement. The differences found can often be attributed to the different approximations inherent in the various algorithms. This shows the accuracy that can be expected from different implementations of the SLE, which helps to assess differences noted in the literature between predictions for realistic loading cases.
+</div>
+
 </td>
 </tr>
 
@@ -435,7 +507,7 @@ Python, C/C++, FORTRAN, APL, LaTeX, Matlab
     <strong>Constraining the Geometry and Volume of the Barents Sea Ice Sheet</strong><br>
     <strong>S. Kachuck</strong> and L. Cathles<br>
     JQS 2018<br>
-    [J5] 
+    [J6] 
 [<a href='javascript: none'
     onclick='$("#abs_Kachuck2018J").toggle()'>abs</a>]<br>
     
@@ -452,7 +524,7 @@ The ice load configuration of the Barents Sea Ice Sheet (BSIS) over the last gla
     <strong>Simulations of granular gravitational collapse</strong><br>
     <strong>S. Kachuck</strong> and G. Voth<br>
     PRE 2013<br>
-    [J6] 
+    [J7] 
 [<a href='javascript: none'
     onclick='$("#abs_Kachuck2013J").toggle()'>abs</a>]<br>
     
@@ -469,7 +541,7 @@ A freely cooling granular gas in a gravitational field undergoes a collapse to a
     <strong>Visualization of collisional substructure in granular shock waves</strong><br>
     J. Perez, <strong>S. Kachuck</strong>, and G. Voth<br>
     PRE 2008<br>
-    [J7] 
+    [J8] 
 [<a href='javascript: none'
     onclick='$("#abs_Perez2008J").toggle()'>abs</a>]<br>
     
@@ -488,10 +560,32 @@ We study shock wave formation and propagation in an experimental vertically driv
 
 <tr>
 <td>
+    <strong></strong><br>
+    <strong>S. Kachuck</strong><br>
+    Cornell University 2018<br>
+    [O1]<br>
+    
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>Rapid viscous response slows Pine Island grounding-line retreat</strong><br>
+    <strong>S. Kachuck</strong><br>
+    GIA Workshop, Ottawa 2019<br>
+    [O2]<br>
+    
+</td>
+</tr>
+
+
+<tr>
+<td>
     <strong>A benchmark study of numerical implementations of the sea-level equation in GIA modelling</strong><br>
     Z. Martinec, V. Klemann, .. .., and <strong>S. Kachuck</strong><br>
     EGU 2018<br>
-    [O1]<br>
+    [O3]<br>
     
 </td>
 </tr>
@@ -502,7 +596,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>Impact of different crustal elastic models on interpreting regional GIA deformation in southeast Alaska</strong><br>
     W. Durkin, <strong>S. Kachuck</strong>, and M. Pritchard<br>
     EGU 2018<br>
-    [O2]<br>
+    [O4]<br>
     
 </td>
 </tr>
@@ -513,7 +607,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>Nondimensionalized relaxation method for efficient computation of elastic Love numbers</strong><br>
     <strong>S. Kachuck</strong> and L. Cathles<br>
     Workshop on Glacial Isostatic Adjustment and Elastic Deformation 2017<br>
-    [O3]<br>
+    [O5]<br>
     
 </td>
 </tr>
@@ -524,7 +618,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>Emergence constraints on Late Weichselian Barents Sea ice sheet history</strong><br>
     <strong>S. Kachuck</strong>, L. Cathles, A. Amantov, A. Hormes, and W. Fjeldskaar<br>
     EGU 2014<br>
-    [O4]<br>
+    [O6]<br>
     
 </td>
 </tr>
@@ -535,7 +629,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>Velocity dependent energy loss in granular gravitational collapse</strong><br>
     <strong>S. Kachuck</strong><br>
     New York Condesnsed Matter Workshop 2011<br>
-    [O5]<br>
+    [O7]<br>
     
 </td>
 </tr>
@@ -548,10 +642,32 @@ We study shock wave formation and propagation in an experimental vertically driv
 
 <tr>
 <td>
+    <strong>giapy: Glacial Isostatic Adjustment in PYthon: Nondimensionalized relaxation method for computation of time-domain viscoelastic Love numbers </strong><br>
+    <strong>S. Kachuck</strong> and L. Cathles<br>
+    American Geosciences Union 2018<br>
+    [P1]<br>
+    
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>Low visocosity mantle feedback in Amundsen Sea Embayment dynamics </strong><br>
+    <strong>S. Kachuck</strong> and J. Bassis<br>
+    American Geosciences Union 2018<br>
+    [P2]<br>
+    
+</td>
+</tr>
+
+
+<tr>
+<td>
     <strong>Using geometry to improve model fitting and experiment design for glacial isostasy \emph{(invited) }</strong><br>
     <strong>S. Kachuck</strong> and L. Cathles<br>
     American Geosciences Union 2017<br>
-    [P1]<br>
+    [P3]<br>
     
 </td>
 </tr>
@@ -562,7 +678,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>Sloppy inversion and optimal experiment design for last glacial maximum Barents Sea Ice Sheet configuration</strong><br>
     <strong>S. Kachuck</strong> and L. Cathles<br>
     American Geosciences Union 2016<br>
-    [P2]<br>
+    [P4]<br>
     
 </td>
 </tr>
@@ -573,7 +689,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>GIA response suggests thick lithosphere under the Appalachians</strong><br>
     <strong>S. Kachuck</strong> and L. Cathles<br>
     Institute for the Study of the Continents 2014<br>
-    [P3]<br>
+    [P5]<br>
     
 </td>
 </tr>
@@ -584,7 +700,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>North American Peripheral Bulge Constraints on Mantle Rheology</strong><br>
     <strong>S. Kachuck</strong>, L. Cathles, A. Amantov, and W. Fjeldskaar<br>
     European Geosciences Union 2014<br>
-    [P4]<br>
+    [P6]<br>
     
 </td>
 </tr>
@@ -595,7 +711,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>The SEAMOD methodology of GIA interpretation</strong><br>
     L. Cathles, A. Amantov, <strong>S. Kachuck</strong>, and W. Fjeldskaar<br>
     European Geosciences Union 2014<br>
-    [P5]<br>
+    [P7]<br>
     
 </td>
 </tr>
@@ -606,7 +722,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>Lithosphere, Ice History, Local Emergence</strong><br>
     <strong>S. Kachuck</strong> and L. Cathles<br>
     European Geosciences Union 2013<br>
-    [P6]<br>
+    [P8]<br>
     
 </td>
 </tr>
@@ -617,7 +733,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>Granular Gravitational Collapse in Realistically Simulated Granular Gases</strong><br>
     <strong>S. Kachuck</strong><br>
     5th Annual Thesis Celebration 2010<br>
-    [P7]<br>
+    [P9]<br>
     
 </td>
 </tr>
