@@ -5,6 +5,6 @@
 layout: home
 --- 
 {% include image.html
-    img="images/famphoto2.jpg"
+    img="images/famphoto3.jpg"
     title="Family Photo"
-    caption="Me (middle) with my wife and 1-year-old at Watkins Glen State Park." %}
+    caption="Me (middle) with my partner and kids at the Dolph Nature Area in Ann Arbor, MI." %}
