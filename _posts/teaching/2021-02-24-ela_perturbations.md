@@ -1,6 +1,6 @@
 ---
 layout: mathpost
-title:  "Getting Started with Notebooks"
+title:  "ELA Perturbations"
 date:   2021-02-24 11:42:44 -0500
 type: teaching
 categories: 474 climate modeling
@@ -239,7 +239,10 @@ edu.intro_glacier_plot(ax, distance_along_glacier, bed_h, initial, [mb_sfc], ['m
 
     
 ![png](output_45_0.png)
-    
+{% include image.html
+    img="images/output_45_0.png
+    title="Family Photo"
+    caption="Me (left) with my partner and kids at the Dolph Nature Area in Ann Arbor, MI." %}   
 
 
 Now we have set the scene to model glacier advance and retreat.

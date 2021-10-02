@@ -7,4 +7,4 @@ layout: home
 {% include image.html
     img="images/famphoto3.jpg"
     title="Family Photo"
-    caption="Me (middle) with my partner and kids at the Dolph Nature Area in Ann Arbor, MI." %}
+    caption="Me (left) with my partner and kids at the Dolph Nature Area in Ann Arbor, MI." %}

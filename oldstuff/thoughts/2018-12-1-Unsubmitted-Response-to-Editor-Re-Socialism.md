@@ -1,0 +1,15 @@
+Thomas S. Hennal’s argument against socialism in the [November 28 edition](https://thesuntimesnews.com/november-28-2018/) is an argument with a scarecrow, lacking context and relying on the likemindedness of its audience. 
+
+Unfortunately, I was unable to find a copy of the persuasive argument by the Baptist pastor and president of the Southern Baptist Convention, Adrian Rogers. But the titular quote appears to have been misattributed, having originally been made by clergyman and founder of the isolationist America First Party, Gerald Smith. The quote seems to have made rounds as anti-Soviet and ant-socialist propaganda repeatedly over the last century. What I’m really concerned with, however, is responding to individual criticisms within the passage: 
+
+“When half of the people get the idea that they do not have to work because the other half is going to take care of them…” The ambiguity here is striking. Which half is this? The tone and context suggest this half contains the poor imploring to be free. But could it instead include the CEOs who, at the top end, appropriate in one day what takes the median worker a whole year to earn? Are they truly working that much harder than the impoverished person working at minimum wage, struggling to meet the car payment required to travel to their job, let alone the childcare to have the time to perform it? 
+
+“…and the other half gets the idea that it does no good to work because somebody else is going to get what they work for.” The author once again takes for granted that his audience will imagine this to be a middle-class, or upper-middle-class taxpayer. But I look out and see a class of people who have been historically and continuously alienated from the fruits of their labor either through literal, violent slavery or economic, indentured, indebted slavery. I see the very same people who are ironically told, through comfortable ‘tut tuts,’ to work harder to see themselves out of a cycle of poverty with which they have been intentionally burdened by those currently in power. 
+
+“The government cannot give to anybody that which the government does not first take from somebody else.” This is a vacuous truism that conveniently overlooks, for instance, the redistribution that regularly passes as justice for petty thievery to restore something wrongfully taken to its original owner. As a republic, we have procedures to decide what counts as criminal. One of the arguments at the heart of the current socialist critique is that we have criminalized, legislatively and through uneven enforcement, the wrong things. Being poor, non-white, non-gender-binary, i.e., not historically in power, should not be criminal. Exploitation should be. 
+
+Socialists organize to right this wrong. There is, apparently, more comfort in the status quo for some than for others. But if some of our neighbors are not free, we must ask why we continue to defend this status quo. As James Baldwin’s Florence in “Go Tell it from the Mountain” tells to her preacher brother: “Then tell me,” said Florence, “what [God] done said to you that you didn’t want to hear.” 
+
+Samuel B. Kachuck 
+Saline 
+
