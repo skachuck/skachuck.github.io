@@ -21,7 +21,7 @@ Goals of this notebook:
 
 This notebook has been adapted from https://edu.oggm.org/en/latest/notebooks_advance_and_retreat.html
 
-You can find it at [https://www.github.com/skachuck/clasp474_w2021](https://www.github.com/skachuck/clasp474_w2021).
+You can find and run the notebook from [https://www.github.com/skachuck/clasp474_w2021](https://www.github.com/skachuck/clasp474_w2021).
 
 
 ```python
