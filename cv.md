@@ -5,17 +5,13 @@ permalink: /cv/
 ---
 [PDF version here](/data/cv.pdf)
 
-## <i class="fa fa-chevron-right"></i> 
-I am seeking faculty positions researching the uncertainties in the geophysical models of global and local mean sea level changes.
-
-
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
   <tr>
     <td class="col-md-3">Sep 2011 - August 2018</td>
     <td>
-        <strong>Ph.D. in Geophysics</strong>
+        <strong>Ph.D. in Physics</strong>
         <br>
       Cornell University
     </td>
@@ -44,6 +40,55 @@ I am seeking faculty positions researching the uncertainties in the geophysical 
       Wesleyan University
     </td>
   </tr>
+</table>
+
+
+## <i class="fa fa-chevron-right"></i> Teaching Experience
+<table class="table table-hover">
+<tr>
+  <td class='col-md-1'>W2021</td>
+  <td><strong>Ice and the Climate</strong> (UM CLaSP 474), Instructional Support</td>
+</tr>
+<tr>
+  <td class='col-md-1'>F2020</td>
+  <td><strong>Earth Systems Modeling</strong> (UM CLaSP 410), Instructional Support</td>
+</tr>
+<tr>
+  <td class='col-md-1'>F2019</td>
+  <td><strong>Earth Systems Modeling</strong> (UM CLaSP 410), Instructor</td>
+</tr>
+<tr>
+  <td class='col-md-1'>S2012 - S2018</td>
+  <td><strong>Private Tutor</strong> (PHYS 2207, 2208, 1112, 2213, 2216; MAE 3780; CEE 3310), </td>
+</tr>
+<tr>
+  <td class='col-md-1'>S2017</td>
+  <td><strong>Analytical Mechanics</strong> (CU PHYS 3318), GTA</td>
+</tr>
+<tr>
+  <td class='col-md-1'>F2011, S2012, Su2012</td>
+  <td><strong>Physics II: Electromagnetism</strong> (CU PHYS 2213), GTA</td>
+</tr>
+<tr>
+  <td class='col-md-1'>F2012</td>
+  <td><strong>Physics I: Mechanics and Heat</strong> (CU PHYS 1112), GTA</td>
+</tr>
+<tr>
+  <td class='col-md-1'>S2010</td>
+  <td><strong>Quantum Mechanics I</strong> (W PHYS 214), UTA</td>
+</tr>
+<tr>
+  <td class='col-md-1'>F2009</td>
+  <td><strong>Mathematical Economics</strong> (W ECON 380), UTA</td>
+</tr>
+<tr>
+  <td class='col-md-1'>S2009</td>
+  <td><strong>General Physics II</strong> (W PHYS 116), UTA</td>
+</tr>
+<tr>
+  <td class='col-md-1'>F2008</td>
+  <td><strong>General Physics I</strong> (W PHYS 113), UTA</td>
+</tr>
 </table>
 
 
@@ -96,13 +141,19 @@ I am seeking faculty positions researching the uncertainties in the geophysical 
 <table class="table table-hover">
 
 <tr>
-<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/kachuck2019RapidGlacier.png" style="width:100px"/></td>
+<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/kachuck2020RapidGlacier.png" style="width:100px"/></td>
 <td>
-    <strong>Rapid viscoelastic deformation lows marine ice sheet instability at Pine Island Glacier</strong><br>
+    <strong>Rapid viscoelastic deformation slows marine ice sheet instability at Pine Island Glacier</strong><br>
     <strong>S. Kachuck</strong>, D. Martin, J. Bassis, and S. Price<br>
-    GRL in review<br>
-    [1]<br>
+    GRL 2020<br>
+    [1] 
+[<a href='javascript: none'
+    onclick='$("#abs_kachuck2020RapidGlacier").toggle()'>abs</a>]<br>
     
+<div id="abs_kachuck2020RapidGlacier" style="text-align: justify; display: none" markdown="1">
+The ice sheets of the Amundsen Sea Embayment (ASE) are vulnerable to the marine ice sheet instability (MISI), which could cause irreversible collapse and raise sea levels by over a meter. The uncertain timing and scale of this collapse depend on the complex interaction between ice, ocean, and bedrock dynamics. The mantle beneath the ASE is likely less viscous (~1018 Pa s) than the Earth's average mantle (~1021 Pa s). Here we show that an effective equilibrium between Pine Island Glacier's retreat and the response of a weak viscoelastic mantle can reduce ice mass lost by almost 30 per cent over 150 years. Other components of solid Earth response—purely elastic deformations and geoid perturbations—provide less stability than the viscoelastic response alone. Uncertainties in mantle rheology, topography, and basal melt affect how much stability we expect, if any. Our study indicates the importance of considering viscoelastic uplift during the rapid retreat associated with MISI.
+</div>
+
 </td>
 </tr>
 
@@ -218,47 +269,6 @@ We study shock wave formation and propagation in an experimental vertically driv
 </table>
 
 
-## <i class="fa fa-chevron-right"></i> Teaching Experience
-<table class="table table-hover">
-<tr>
-  <td class='col-md-1'>F2019</td>
-  <td><strong>Earth Systems Modeling</strong> (UM CLaSP 410), Instructor</td>
-</tr>
-<tr>
-  <td class='col-md-1'>S2012 - S2018</td>
-  <td><strong>Private Tutor</strong> (PHYS 2207, 2208, 1112, 2213, 2216; MAE 3780; CEE 3310), </td>
-</tr>
-<tr>
-  <td class='col-md-1'>S2017</td>
-  <td><strong>Analytical Mechanics</strong> (CU PHYS 3318), GTA</td>
-</tr>
-<tr>
-  <td class='col-md-1'>F2011, S2012, Su2012</td>
-  <td><strong>Physics II: Electromagnetism</strong> (CU PHYS 2213), GTA</td>
-</tr>
-<tr>
-  <td class='col-md-1'>F2012</td>
-  <td><strong>Physics I: Mechanics and Heat</strong> (CU PHYS 1112), GTA</td>
-</tr>
-<tr>
-  <td class='col-md-1'>S2010</td>
-  <td><strong>Quantum Mechanics I</strong> (W PHYS 214), UTA</td>
-</tr>
-<tr>
-  <td class='col-md-1'>F2009</td>
-  <td><strong>Mathematical Economics</strong> (W ECON 380), UTA</td>
-</tr>
-<tr>
-  <td class='col-md-1'>S2009</td>
-  <td><strong>General Physics II</strong> (W PHYS 116), UTA</td>
-</tr>
-<tr>
-  <td class='col-md-1'>F2008</td>
-  <td><strong>General Physics I</strong> (W PHYS 113), UTA</td>
-</tr>
-</table>
-
-
 ## <i class="fa fa-chevron-right"></i> Skills
 <table class="table table-hover">
 <tr>
@@ -267,86 +277,10 @@ We study shock wave formation and propagation in an experimental vertically driv
 Python, C/C++, FORTRAN, APL, LaTeX, Matlab
   </td>
 </tr>
-</table>
-
-
-## <i class="fa fa-chevron-right"></i> Honors & Awards
-<table class="table table-hover">
 <tr>
-  <td class='col-md-2'>2017</td>
-  <td>
-    Douglas A Fitchen Scholar
-    <!--  -->
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>2016</td>
-  <td>
-    AGU Outstanding Student Paper Award
-    <!--  -->
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>2012</td>
-  <td>
-    NSF GRFP Honorable Mention
-    <!--  -->
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>2010</td>
-  <td>
-    Phi Beta Kappa
-    <!--  -->
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>2010</td>
-  <td>
-    Graham Prize
-    <!--  -->
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>2010</td>
-  <td>
-    Karl van Dyke Prize
-    <!--  -->
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>2010</td>
-  <td>
-    Plukas Teaching Apprentice Award
-    <!--  -->
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>2010</td>
-  <td>
-    White Prize
-    <!--  -->
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>2006 - 2010</td>
-  <td>
-    Dean's List, Wesleyan University
-    <!--  -->
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>2007</td>
-  <td>
-    Squire Fund Fellow
-    <!--  -->
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>2007</td>
-  <td>
-    Chadbourne Prize
-    <!--  -->
+  <td class='col-md-2'>Instruments:</td>
+  <td markdown="1">
+Piano, fiddle
   </td>
 </tr>
 </table>
@@ -357,10 +291,78 @@ Python, C/C++, FORTRAN, APL, LaTeX, Matlab
 <tr>
   <td class='col-md-2'>2018-</td>
   <td>
-    Peer Reviewer: JGR: Solid Earth, Solid Earth
+    Peer Reviewer: JGR: Solid Earth, Solid Earth, The Cryosphere
     <!--  -->
   </td>
 </tr>
+<tr>
+  <td class='col-md-2'>2021</td>
+  <td>
+    URGE (Unlearning Racism in GEosciences) Pod
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2020</td>
+  <td>
+    Internal Grant Reviewer for Los Alamos National Lab
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2018-2019</td>
+  <td>
+    AGU Fall Meeting OSPA Judge
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2019</td>
+  <td>
+    Steering Committee: International Thwaites Glacier Collaboration: Early Career Reteat
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2019</td>
+  <td>
+    Michigan Geophysical Union Symposium Judge
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2018</td>
+  <td>
+    Engineering Graduate Symposium Judge
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2016-2017</td>
+  <td>
+    Graduate Student Union Communications Committee
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2013</td>
+  <td>
+    Cornell Physics Graduate Teaching Assistant Review
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2012-2013</td>
+  <td>
+    Cornell Physics Graduate Teaching Assisant Training
+    <!--  -->
+  </td>
+</tr>
+</table>
+
+
+## <i class="fa fa-chevron-right"></i> Outreach
+<table class="table table-hover">
 <tr>
   <td class='col-md-2'>2016-</td>
   <td>
@@ -369,23 +371,16 @@ Python, C/C++, FORTRAN, APL, LaTeX, Matlab
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>2019</td>
+  <td class='col-md-2'>2018, 2020</td>
   <td>
-    International Thwaites Glacier Collaboration: Early Career Reteat
+    Antarctic Week Guest Lecturer in Elementary Schools
     <!--  -->
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>2018</td>
+  <td class='col-md-2'>2020</td>
   <td>
-    AGU Fall Meeting OSPA Judge
-    <!--  -->
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>2018</td>
-  <td>
-    Antarctic Week
+    Waterford-Kettering High School Guest Lecture
     <!--  -->
   </td>
 </tr>
@@ -427,6 +422,95 @@ Python, C/C++, FORTRAN, APL, LaTeX, Matlab
 </table>
 
 
+## <i class="fa fa-chevron-right"></i> Honors & Awards
+<table class="table table-hover">
+<tr>
+  <td class='col-md-2'>2021</td>
+  <td>
+    NERSC High Performance Computing Achievement Award
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2017</td>
+  <td>
+    Douglas A Fitchen Scholar: for international travel to present physics
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2016</td>
+  <td>
+    AGU Outstanding Student Paper Award
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2012</td>
+  <td>
+    NSF GRFP Honorable Mention
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2010</td>
+  <td>
+    Phi Beta Kappa
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2010</td>
+  <td>
+    Graham Prize: for excellence in natural science
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2010</td>
+  <td>
+    Karl van Dyke Prize: for outstanding achievement in physical science
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2010</td>
+  <td>
+    Plukas Teaching Apprentice Award: for excellent service to the Economics Department as a TA
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2010</td>
+  <td>
+    White Prize, for advanced undergraduate study in economics
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2006 - 2010</td>
+  <td>
+    Dean's List, Wesleyan University
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2007</td>
+  <td>
+    Squire Fund Fellow: for research into Classical Civilizations
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2007</td>
+  <td>
+    Chadbourne Prize: for the freshman student displaying outstanding character, conduct, and leadership
+    <!--  -->
+  </td>
+</tr>
+</table>
+
+
 ## <i class="fa fa-chevron-right"></i> All Publications
 <a href="https://scholar.google.com/citations?user=nuMklOMAAAAJ" class="btn btn-primary" style="padding: 0.3em;">
   <i class="ai ai-google-scholar"></i> Google Scholar
@@ -449,11 +533,28 @@ Python, C/C++, FORTRAN, APL, LaTeX, Matlab
 
 <tr>
 <td>
-    <strong>Rapid viscoelastic deformation slows marine ice sheet instability at Pine Island Glacier</strong><br>
-    <strong>S. Kachuck</strong>, D. Martin, J. Bassis, and S. Price<br>
-    GRL in review<br>
+    <strong>Simulating ice shelf extent using damage mechanics</strong><br>
+    <strong>S. Kachuck</strong>, M. Whitcomb, J. Bassis, D. Martin, and S. Price<br>
+    in review in review<br>
     [J2]<br>
     
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>Rapid viscoelastic deformation slows marine ice sheet instability at Pine Island Glacier</strong><br>
+    <strong>S. Kachuck</strong>, D. Martin, J. Bassis, and S. Price<br>
+    GRL 2020<br>
+    [J3] 
+[<a href='javascript: none'
+    onclick='$("#abs_kachuck2020RapidGlacierJ").toggle()'>abs</a>]<br>
+    
+<div id="abs_kachuck2020RapidGlacierJ" style="text-align: justify; display: none" markdown="1">
+The ice sheets of the Amundsen Sea Embayment (ASE) are vulnerable to the marine ice sheet instability (MISI), which could cause irreversible collapse and raise sea levels by over a meter. The uncertain timing and scale of this collapse depend on the complex interaction between ice, ocean, and bedrock dynamics. The mantle beneath the ASE is likely less viscous (~1018 Pa s) than the Earth's average mantle (~1021 Pa s). Here we show that an effective equilibrium between Pine Island Glacier's retreat and the response of a weak viscoelastic mantle can reduce ice mass lost by almost 30 per cent over 150 years. Other components of solid Earth response—purely elastic deformations and geoid perturbations—provide less stability than the viscoelastic response alone. Uncertainties in mantle rheology, topography, and basal melt affect how much stability we expect, if any. Our study indicates the importance of considering viscoelastic uplift during the rapid retreat associated with MISI.
+</div>
+
 </td>
 </tr>
 
@@ -463,7 +564,7 @@ Python, C/C++, FORTRAN, APL, LaTeX, Matlab
     <strong>Benchmarked computation of time-domain viscoelastic Love numbers for adiabatic mantles</strong><br>
     <strong>S. Kachuck</strong> and L. Cathles<br>
     GJI 2019<br>
-    [J3] 
+    [J4] 
 [<a href='javascript: none'
     onclick='$("#abs_kachuck2019BenchmarkedMantlesJ").toggle()'>abs</a>]<br>
     
@@ -480,7 +581,7 @@ The viscoelastic load Love numbers encapsulate the Earth’s rheology in a remar
     <strong>The Importance of the Inelastic and Elastic Structures of the Crust in Constraining Glacial Density, Mass Change, and Isostatic Adjustment From Geodetic Observations in Southeast Alaska</strong><br>
     W. Durkin, <strong>S. Kachuck</strong>, and M. Pritchard<br>
     JGR: Solid Earth 2019<br>
-    [J4] 
+    [J5] 
 [<a href='javascript: none'
     onclick='$("#abs_durkin2019importanceJ").toggle()'>abs</a>]<br>
     
@@ -497,7 +598,7 @@ Elastic deformation of the solid Earth in response to ice mass loss offers a pro
     <strong>A benchmark study of numerical implementations of the sea level equation in GIA modelling</strong><br>
     Z. Martinec, V. Klemann, W. der Wal, R. Riva, G. Spada, Y. Sun, D. Melini, <strong>S. Kachuck</strong>, V. Barletta, K. Simon, G. A, and T. James<br>
     GJI 2018<br>
-    [J5] 
+    [J6] 
 [<a href='javascript: none'
     onclick='$("#abs_martinec2019AmodellingJ").toggle()'>abs</a>]<br>
     
@@ -514,7 +615,7 @@ The ocean load in glacial isostatic adjustment (GIA) modelling is represented by
     <strong>Constraining the Geometry and Volume of the Barents Sea Ice Sheet</strong><br>
     <strong>S. Kachuck</strong> and L. Cathles<br>
     JQS 2018<br>
-    [J6] 
+    [J7] 
 [<a href='javascript: none'
     onclick='$("#abs_Kachuck2018J").toggle()'>abs</a>]<br>
     
@@ -531,7 +632,7 @@ The ice load configuration of the Barents Sea Ice Sheet (BSIS) over the last gla
     <strong>Simulations of granular gravitational collapse</strong><br>
     <strong>S. Kachuck</strong> and G. Voth<br>
     PRE 2013<br>
-    [J7] 
+    [J8] 
 [<a href='javascript: none'
     onclick='$("#abs_Kachuck2013J").toggle()'>abs</a>]<br>
     
@@ -548,7 +649,7 @@ A freely cooling granular gas in a gravitational field undergoes a collapse to a
     <strong>Visualization of collisional substructure in granular shock waves</strong><br>
     J. Perez, <strong>S. Kachuck</strong>, and G. Voth<br>
     PRE 2008<br>
-    [J8] 
+    [J9] 
 [<a href='javascript: none'
     onclick='$("#abs_Perez2008J").toggle()'>abs</a>]<br>
     
@@ -567,9 +668,9 @@ We study shock wave formation and propagation in an experimental vertically driv
 
 <tr>
 <td>
-    <strong></strong><br>
+    <strong>Implementing novel physics in ice sheet models for improved sea-level projections \emph{(invited)}</strong><br>
     <strong>S. Kachuck</strong><br>
-    Cornell University 2018<br>
+    NERSC Seminar Series 2021<br>
     [O1]<br>
     
 </td>
@@ -578,10 +679,87 @@ We study shock wave formation and propagation in an experimental vertically driv
 
 <tr>
 <td>
-    <strong>Rapid viscous response slows Pine Island grounding-line retreat</strong><br>
-    <strong>S. Kachuck</strong><br>
-    GIA Workshop, Ottawa 2019<br>
+    <strong>Damage Control: forming stable ice shelves in simulations with damage mechanics</strong><br>
+    <strong>S. Kachuck</strong>, M. Whitcomb, J. Bassis, D. Martin, and P. S.<br>
+    WAIS 2021<br>
     [O2]<br>
+    
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>The ice and earth physics of sea level change</strong><br>
+    <strong>S. Kachuck</strong><br>
+    Wesleyan University Physics Colloquium 2021<br>
+    [O3]<br>
+    
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>A Statistical Physics Description of Glacier Calving Behavior in Ice-Shelf Evolution</strong><br>
+    P. Brady and <strong>S. Kachuck</strong><br>
+    CUWiP 2021<br>
+    [O4]<br>
+    
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>Rapid viscoelastic deformation slows marine ice sheet instability in the Amundsen Sea Embayment</strong><br>
+    <strong>S. Kachuck</strong>, D. Martin, J. Bassis, and S. Price<br>
+    AGU 2020<br>
+    [O5]<br>
+    
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>Sensitivity of Coupled Solid Earth - Ice Sheet MOdeling of Thwaiters Flacier to Coupling Timescale and Earth Rheology</strong><br>
+    C. Book, M. Hoffman, and <strong>S. Kachuck</strong><br>
+    WAIS 2020<br>
+    [O6]<br>
+    
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>Solid Earth Feedbacks \emph{(invited)}</strong><br>
+    <strong>S. Kachuck</strong><br>
+    ITGC: The Next Generation 2019<br>
+    [O7]<br>
+    
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>Politics of modeling</strong><br>
+    <strong>S. Kachuck</strong><br>
+    University of Michigan STS Workshop 2019<br>
+    [O8]<br>
+    
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>Rapid viscous response slows Pine Island grounding-line retreat</strong><br>
+    <strong>S. Kachuck</strong>, D. Martin, J. Bassis, and S. Price<br>
+    GIA Workshop, Ottawa 2019<br>
+    [O9]<br>
     
 </td>
 </tr>
@@ -592,7 +770,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>A benchmark study of numerical implementations of the sea-level equation in GIA modelling</strong><br>
     Z. Martinec, V. Klemann, .. .., and <strong>S. Kachuck</strong><br>
     EGU 2018<br>
-    [O3]<br>
+    [O10]<br>
     
 </td>
 </tr>
@@ -603,7 +781,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>Impact of different crustal elastic models on interpreting regional GIA deformation in southeast Alaska</strong><br>
     W. Durkin, <strong>S. Kachuck</strong>, and M. Pritchard<br>
     EGU 2018<br>
-    [O4]<br>
+    [O11]<br>
     
 </td>
 </tr>
@@ -614,7 +792,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>Nondimensionalized relaxation method for efficient computation of elastic Love numbers</strong><br>
     <strong>S. Kachuck</strong> and L. Cathles<br>
     Workshop on Glacial Isostatic Adjustment and Elastic Deformation 2017<br>
-    [O5]<br>
+    [O12]<br>
     
 </td>
 </tr>
@@ -625,7 +803,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>Emergence constraints on Late Weichselian Barents Sea ice sheet history</strong><br>
     <strong>S. Kachuck</strong>, L. Cathles, A. Amantov, A. Hormes, and W. Fjeldskaar<br>
     EGU 2014<br>
-    [O6]<br>
+    [O13]<br>
     
 </td>
 </tr>
@@ -636,7 +814,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>Velocity dependent energy loss in granular gravitational collapse</strong><br>
     <strong>S. Kachuck</strong><br>
     New York Condesnsed Matter Workshop 2011<br>
-    [O7]<br>
+    [O14]<br>
     
 </td>
 </tr>
@@ -649,10 +827,43 @@ We study shock wave formation and propagation in an experimental vertically driv
 
 <tr>
 <td>
+    <strong>Rapid viscoelastic response to ice loss in the ASE slows grounding line retreat</strong><br>
+    <strong>S. Kachuck</strong>, D. Martin, J. Bassis, and S. Price<br>
+    ITGC: Science Meeting 2020<br>
+    [P1]<br>
+    
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>Data and Simulacra, toward a framework for inclusive coproduction \emph{(invited)}</strong><br>
+    <strong>S. Kachuck</strong><br>
+    AGU 2020<br>
+    [P2]<br>
+    
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>Rapid viscoelastic deformation slows marine ice sheet instability at Pine Island Glacier</strong><br>
+    <strong>S. Kachuck</strong>, D. Martin (presenter), J. Bassis, and S. Price<br>
+    AGU 2019<br>
+    [P3]<br>
+    
+</td>
+</tr>
+
+
+<tr>
+<td>
     <strong>giapy: Glacial Isostatic Adjustment in PYthon: Nondimensionalized relaxation method for computation of time-domain viscoelastic Love numbers </strong><br>
     <strong>S. Kachuck</strong> and L. Cathles<br>
     American Geosciences Union 2018<br>
-    [P1]<br>
+    [P4]<br>
     
 </td>
 </tr>
@@ -662,8 +873,8 @@ We study shock wave formation and propagation in an experimental vertically driv
 <td>
     <strong>Low visocosity mantle feedback in Amundsen Sea Embayment dynamics </strong><br>
     <strong>S. Kachuck</strong> and J. Bassis<br>
-    American Geosciences Union 2018<br>
-    [P2]<br>
+    West Antarctic Ice Sheet Initiative 2018<br>
+    [P5]<br>
     
 </td>
 </tr>
@@ -674,7 +885,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>Using geometry to improve model fitting and experiment design for glacial isostasy \emph{(invited) }</strong><br>
     <strong>S. Kachuck</strong> and L. Cathles<br>
     American Geosciences Union 2017<br>
-    [P3]<br>
+    [P6]<br>
     
 </td>
 </tr>
@@ -685,7 +896,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>Sloppy inversion and optimal experiment design for last glacial maximum Barents Sea Ice Sheet configuration</strong><br>
     <strong>S. Kachuck</strong> and L. Cathles<br>
     American Geosciences Union 2016<br>
-    [P4]<br>
+    [P7]<br>
     
 </td>
 </tr>
@@ -696,7 +907,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>GIA response suggests thick lithosphere under the Appalachians</strong><br>
     <strong>S. Kachuck</strong> and L. Cathles<br>
     Institute for the Study of the Continents 2014<br>
-    [P5]<br>
+    [P8]<br>
     
 </td>
 </tr>
@@ -707,7 +918,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>North American Peripheral Bulge Constraints on Mantle Rheology</strong><br>
     <strong>S. Kachuck</strong>, L. Cathles, A. Amantov, and W. Fjeldskaar<br>
     European Geosciences Union 2014<br>
-    [P6]<br>
+    [P9]<br>
     
 </td>
 </tr>
@@ -718,7 +929,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>The SEAMOD methodology of GIA interpretation</strong><br>
     L. Cathles, A. Amantov, <strong>S. Kachuck</strong>, and W. Fjeldskaar<br>
     European Geosciences Union 2014<br>
-    [P7]<br>
+    [P10]<br>
     
 </td>
 </tr>
@@ -729,7 +940,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>Lithosphere, Ice History, Local Emergence</strong><br>
     <strong>S. Kachuck</strong> and L. Cathles<br>
     European Geosciences Union 2013<br>
-    [P8]<br>
+    [P11]<br>
     
 </td>
 </tr>
@@ -740,7 +951,7 @@ We study shock wave formation and propagation in an experimental vertically driv
     <strong>Granular Gravitational Collapse in Realistically Simulated Granular Gases</strong><br>
     <strong>S. Kachuck</strong><br>
     5th Annual Thesis Celebration 2010<br>
-    [P9]<br>
+    [P12]<br>
     
 </td>
 </tr>
