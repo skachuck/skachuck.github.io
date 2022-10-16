@@ -3,7 +3,7 @@ layout: default
 title: CV
 permalink: /cv/
 ---
-[PDF version here](/data/cv.pdf)
+[PDF version here](/data/cv_20221014.pdf)
 
 ## <i class="fa fa-chevron-right"></i> Education
 
@@ -139,6 +139,43 @@ permalink: /cv/
 </a>
 
 <table class="table table-hover">
+
+<tr>
+<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/book2022StabilizingTimescales.png" style="width:100px"/></td>
+<td>
+    <strong>Stabilizing effect of bedrock uplift on retreat of Thwaites Glacier, Antarctica, at centennial timescales</strong><br>
+    C. Book, M. Hoffman, <strong>S. Kachuck</strong>, T. Hillebrand, S. Price, M. Perego, J. Bassis<br>
+    Earth and Planetary Science Letters 2022<br>
+    [1] 
+[<a href='javascript: none'
+    onclick='$("#abs_book2022StabilizingTimescales").toggle()'>abs</a>]<br>
+    
+<div id="abs_book2022StabilizingTimescales" style="text-align: justify; display: none" markdown="1">
+Viscoelastic rebound of the solid Earth upon the removal of ice loads has the potential to inhibit marine ice sheet instability, thereby forestalling ice-sheet retreat and global mean sea-level rise. The timescale over which the solid Earth - ice sheet system responds to changes in ice thickness and bedrock topography places a strong control on the spatiotemporal influence of this negative feedback mechanism. In this study, we assess the impact of solid-earth rheological structure on model projections of the retreat of Thwaites Glacier, West Antarctica, and the concomitant sea-level rise by coupling the dynamic ice sheet model MALI to a regional glacial isostatic adjustment (GIA) model. We test the sensitivity of model projections of ice-sheet retreat and associated sea-level rise across a range of four different solid-earth rheologies, forced by standard ISMIP6 ocean and atmospheric datasets for the RCP8.5 climate scenario. These model parameters are applied to 500-year, coupled ice-sheet - GIA simulations. For the mantle viscosity best supported by observations, the negative GIA feedback leads to a reduction in mass loss that remains above 20% after about a hundred years. Mass-loss reduction peaks at 50% around 2300, which is when a control simulation without GIA experiences its maximum rate of retreat. For a weaker solid-earth rheology that is unlikely but compatible with observational uncertainty, mass loss reduction remains above 50% after 2150. At 2100, mass loss reduction is 10% for the best-fit rheology and 25% for the weakest rheology. At the same time, we estimate that water expulsion from the rebounding solid Earth beneath the ocean near Thwaites Glacier may increase sea-level rise by up to 20% at five centuries. Additionally, the reduction in ice-sheet retreat caused by GIA is substantially reduced under stronger climate forcings, suggesting that the stabilizing feedback of GIA will also be an indirect function of emissions scenario. We hypothesize that feedbacks between the solid Earth - ice sheet system are controlled by a competition between the spatial extent and timescale of bedrock uplift relative to the rate of grounded ice retreat away from the region of most rapid unloading. Although uncertainty in solid-earth rheology leads to large uncertainty in future sea-level rise contribution from Thwaites Glacier, under all plausible parameters the GIA effects are too large to be ignored for future projections of Thwaites Glacier of more than a century.
+</div>
+
+</td>
+</tr>
+
+
+<tr>
+<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/kachuck2022SimulatingMechanics.png" style="width:100px"/></td>
+<td>
+    <strong>Simulating ice-shelf extent using damage mechanics</strong><br>
+    <strong>S. Kachuck</strong>, M. Whitcomb, J. Bassis, D. Martin, and S. Price<br>
+    Journal of Glaciology 2022<br>
+    [1] 
+[<a href='javascript: none'
+    onclick='$("#abs_kachuck2022SimulatingMechanics").toggle()'>abs</a>]<br>
+    
+<div id="abs_kachuck2022SimulatingMechanics" style="text-align: justify; display: none" markdown="1">
+Inaccurate representations of iceberg calving from ice shelves are a large source of uncertainty in mass-loss projections from the Antarctic ice sheet. Here, we address this limitation by implementing and testing a continuum damage-mechanics model in a continental scale ice-sheet model. The damage-mechanics formulation, based on a linear stability analysis and subsequent long-wavelength approximation of crevasses that evolve in a viscous medium, links damage evolution to climate forcing and the large-scale stresses within an ice shelf. We incorporate this model into the BISICLES ice-sheet model and test it by applying it to idealized (1) ice tongues, for which we present analytical solutions and (2) buttressed ice-shelf geometries. Our simulations show that the model reproduces the large disparity in lengths of ice shelves with geometries and melt rates broadly similar to those of four Antarctic ice shelves: Erebus Glacier Tongue (length ~ 13 km), the unembayed portion of Drygalski Ice Tongue (~ 65 km), the Amery Ice Shelf (~ 350 km) and the Ross Ice Shelf (~ 500 km). These results demonstrate that our simple continuum model holds promise for constraining realistic ice-shelf extents in large-scale ice-sheet models in a computationally tractable manner.
+</div>
+
+</td>
+</tr>
+
+
 
 <tr>
 <td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/kachuck2020RapidGlacier.png" style="width:100px"/></td>
@@ -280,7 +317,7 @@ Python, C/C++, FORTRAN, APL, LaTeX, Matlab
 <tr>
   <td class='col-md-2'>Instruments:</td>
   <td markdown="1">
-Piano, fiddle
+Piano, fiddle, guitar
   </td>
 </tr>
 </table>

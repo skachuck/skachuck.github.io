@@ -12,22 +12,20 @@ Here's a talk I gave on Continuum Damage Mechanics at the West Antarctic Ice She
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0_x1JDaeRtk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-
-
-<h2>Stochastic Calving Models</h2>
-Iceberg calving events come in all shapes and sizes, and occur somewhat unpredictably, but appear to follow a common distribution that also explains, among other things, the earthquake Gutenberg-Richter distribution. Statistical physics suggests this may be due to a tendency for complex systems to evolve to a state of self-organized criticality, where each part of the system is in communication with all others at all length scales. Can we use this connection to postulate a better long-term, average calving law?
-
-I've been advising UC Davis Undergraduate, Paige Brady, in this work. This plot going into her thesis shows how, with a simple, 1D ice model and a way of giving ice random defects (left) can generate the flavor of calving events - frequency and size - observed at the Erebus Ice Tongue in East Antarctica (right):
-
-[Erebus calving](https://skachuck.github.io/images/erebus_stat.png)
-
 <h2>Solid-Earth Feedbacks on Ice Dynamics</h2>
-In this project we look at what's going on deep beneath the ice, at the earth's mantle, and what it does in response to all the ice moving around on the Earth’s surface, and then what that can mean for the ice’s flow. We’re finding that mantle motion can affect our forecasts of ice mass loss and sea level change even on the relatively short time-scales of decades and centuries, but many questions remain. We're investing how this might fundamentally change how we compute the sea-level effect of ice evolution and quantifying what controls the magnitude of this feedback.
+In this project we look at what's going on deep beneath the ice, at the earth's mantle, and what it does in response to all the ice moving around on the Earth’s surface, and then what that can mean for the ice’s flow. We’re finding that mantle motion can affect our forecasts of ice mass loss and sea level change even on the relatively short time-scales of decades and centuries, but many questions remain. We're investigating how this might significantly affect our projections of sea-level in the future and quantifying what controls the magnitude of this feedback, in particular by looking into observations of ice sheets over the last 20 thousand years.
 
 Here's a talk I gave introducing these concepts and applying them to simulations of ice loss scenarios at Pine Island Glacier in West Antarctica:
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/29MdsWiSYbE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+<h2>Stochastic Calving Models</h2>
+Iceberg calving events come in all shapes and sizes, and occur somewhat unpredictably, but appear to follow a common distribution that also explains, among other things, the earthquake Gutenberg-Richter distribution. Statistical physics suggests this may be due to a tendency for complex systems to evolve to a state of self-organized criticality, where each part of the system is in communication with all others at all length scales. Can we use this connection to postulate a better long-term, average calving law?
+
+I've been advising UC Davis Undergraduate, Paige Brady, in this work. This plot going into her thesis shows how, with a simple, 1D ice model and a way of giving ice random defects (see below) can generate the flavor of calving events - frequency and size - observed at the Erebus Ice Tongue in East Antarctica:
+
+[Erebus calving](https://skachuck.github.io/images/fbm_calving.png)
 
 <h2>Global Deformation and Sea Level Modeling</h2>
 The dynamics of ice and the solid earth are drivers of sea level change and its unequal distribution will disproportionately affect already underserved communities. When ice flows or melts into the ocean, the effect on sea level isn't the same everywhere, like it is when slowly filling up a bathtup. Instead, the whole globe changes shape (deforms), and gravity shifts around, making sea levels rise much faster in some places (like Florida and the Marshall Islands) than others (like Northern Canada and Scandinavia). We are developing open-source tools for computing global deformation and the effect on sea levels, with the aim of including these processes into Earth Systems Models, like the E3SM. 
