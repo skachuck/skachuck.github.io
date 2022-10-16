@@ -141,7 +141,7 @@ permalink: /cv/
 <table class="table table-hover">
 
 <tr>
-<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/book2022StabilizingTimescales.png" style="width:100px"/></td>
+<td class="col-md-3" style="width:25%" valign="top"><img src="/images/publications/book2022StabilizingTimescales.jpg" style="width:100px"/></td>
 <td>
     <strong>Stabilizing effect of bedrock uplift on retreat of Thwaites Glacier, Antarctica, at centennial timescales</strong><br>
     C. Book, M. Hoffman, <strong>S. Kachuck</strong>, T. Hillebrand, S. Price, M. Perego, J. Bassis<br>

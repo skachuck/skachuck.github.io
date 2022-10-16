@@ -25,7 +25,7 @@ Iceberg calving events come in all shapes and sizes, and occur somewhat unpredic
 
 I've been advising UC Davis Undergraduate, Paige Brady, in this work. This plot going into her thesis shows how, with a simple, 1D ice model and a way of giving ice random defects (see below) can generate the flavor of calving events - frequency and size - observed at the Erebus Ice Tongue in East Antarctica:
 
-[Erebus calving](https://skachuck.github.io/images/fbm_calving.png)
+![Erebus calving](https://skachuck.github.io/images/fbm_calving.png)
 
 <h2>Global Deformation and Sea Level Modeling</h2>
 The dynamics of ice and the solid earth are drivers of sea level change and its unequal distribution will disproportionately affect already underserved communities. When ice flows or melts into the ocean, the effect on sea level isn't the same everywhere, like it is when slowly filling up a bathtup. Instead, the whole globe changes shape (deforms), and gravity shifts around, making sea levels rise much faster in some places (like Florida and the Marshall Islands) than others (like Northern Canada and Scandinavia). We are developing open-source tools for computing global deformation and the effect on sea levels, with the aim of including these processes into Earth Systems Models, like the E3SM. 
